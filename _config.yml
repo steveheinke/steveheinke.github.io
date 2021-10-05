@@ -1,6 +1,6 @@
 # main text of home
-name: Steve Heinke
-bio: Economist investigating Financial Decisions & Markets ¦ Cognitive Science¦ Postdoc @UniBasel
+name: 'Steve Heinke'
+bio: 'Economist investigating Financial Decisions & Markets ¦ Cognitive Science¦ Postdoc @UniBasel'
 
 
 # twitter summary info
@@ -9,7 +9,7 @@ description:
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/21_5_steve_klein-4.jpg
+picture: 'assets/images/21_5_steve_klein-4.jpg'
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
