@@ -1,5 +1,4 @@
-# Steve [Dein Nachname]
-**Wissenschaftlicher Mitarbeiter / Forscher an der [Universität/Institut]**
+**Senior Researcher**
 
 ---
 
