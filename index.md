@@ -6,7 +6,17 @@ title: Steve Heinke
 <style>
   /* Versteckt die Sidebar links komplett (inkl. Name und GitHub-Link) */
   header { display: none !important; }
-  
+      
+    .sticky-menu {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      background-color: white;
+      padding: 10px 0;
+      border-bottom: 1px solid #eee;
+      z-index: 1000;
+    }
+
   /* Versteckt den Footer (Hosted on GitHub etc.) */
   footer { display: none !important; }
   
@@ -60,6 +70,19 @@ title: Steve Heinke
     </td>
   </tr>
 </table>
+
+<div class="sticky-menu">
+  <p style="font-size: 0.85em; margin: 0;">
+    <a href="#publications">Publications</a> | 
+    <a href="#working-papers">Working Papers</a> | 
+    <a href="#research-in-progress-selected">Research</a> | 
+    <a href="#professional-services">Services</a> | 
+    <a href="#teaching-experience">Teaching</a> | 
+    <a href="#academic-appointments">Academic Appointments</a> | 
+    <a href="#education">Education</a>
+  </p>
+</div>
+
 <hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
 
 
