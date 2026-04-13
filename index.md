@@ -14,21 +14,16 @@ title: Steve Heinke
     position: relative; 
   }
 
-  /* Container für Menu und Einleitungstext */
-  .menu-text-container {
-    display: flex;
-    align-items: flex-start; /* Richtet Box und Text oben bündig aus */
-    gap: 25px;               /* Abstand zwischen Button und Text */
-    margin-bottom: 20px;
-  }
-
-  /* Der Menu-Button-Container */
+  /* Der Button bekommt float, damit der Text daneben fließen kann, 
+     bleibt aber sticky gegenüber der gesamten Sektion */
   .menu-dropdown {
     position: -webkit-sticky;
     position: sticky;
-    top: 20px;               /* Abstand zum oberen Rand beim Scrollen */
+    top: 20px; 
+    float: left;
     z-index: 9999;
-    flex-shrink: 0;          /* Verhindert, dass die Box schmaler wird */
+    margin-right: 25px; /* Abstand zum Text */
+    margin-bottom: 10px;
   }
 
   .menu-button {
@@ -47,12 +42,11 @@ title: Steve Heinke
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   }
 
-  /* Dropdown Liste */
   .menu-content {
     display: none;
     position: absolute;
     left: 0;
-    top: 100%;               /* Direkt unter dem Button */
+    top: 100%;
     background-color: #fff;
     min-width: 220px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
@@ -60,7 +54,6 @@ title: Steve Heinke
     padding: 5px 0;
   }
 
-  /* Unsichtbarer Puffer, damit das Menü beim Bewegen der Maus nicht schließt */
   .menu-content::before {
     content: "";
     position: absolute;
@@ -76,17 +69,12 @@ title: Steve Heinke
     text-decoration: none;
     display: block;
     font-size: 0.9em;
-    border-bottom: 1px solid #f9f9f9;
   }
-  .menu-content a:last-child { border-bottom: none; }
   .menu-content a:hover { background-color: #f1f1f1; }
 
-  /* Zeigt das Menü beim Hovern über den Container */
-  .menu-dropdown:hover .menu-content {
-    display: block;
-  }
+  .menu-dropdown:hover .menu-content { display: block; }
 
-  /* Back to Top Button (unten links) */
+  /* Back to Top Button */
   .back-to-top {
     position: fixed;
     bottom: 20px;
@@ -101,14 +89,6 @@ title: Steve Heinke
     z-index: 9999;
     font-weight: bold;
     opacity: 0.7;
-    transition: opacity 0.3s;
-  }
-  .back-to-top:hover { opacity: 1; background-color: #000; color: #fff; }
-
-  /* Responsive Fix für Handys */
-  @media (max-width: 600px) {
-    .menu-text-container { flex-direction: column; gap: 15px; }
-    .menu-dropdown { position: relative; top: 0; float: none; }
   }
   
 
@@ -171,10 +151,9 @@ title: Steve Heinke
 </table>
 ---
 
-<div class="menu-text-container">
-  <div class="menu-dropdown">
-    <button class="menu-button">
-      Menu
+<div class="menu-dropdown">
+  <button class="menu-button">
+    Menu
       <div class="hamburger">
         <span></span>
         <span></span>
@@ -190,12 +169,12 @@ title: Steve Heinke
       <a href="#teaching-experience">Teaching Experience</a>
     </div>
 </div>
-<p style="font-size:1.15em; line-height:1.4; margin: 0; padding-top: 2px;">
-    Experimental economist working on the cognitive and behavioral foundations of 
-    decision-making, with a focus on financial decision-making, information 
-    processing, attention, and learning.
-  </p>
-</div>
+
+<p style="font-size:1.15em; line-height:1.4; margin: 0;">
+  Experimental economist working on the cognitive and behavioral foundations of 
+  decision-making, with a focus on financial decision-making, information 
+  processing, attention, and learning.
+</p>
 
 ---
 
