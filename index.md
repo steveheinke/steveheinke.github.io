@@ -49,6 +49,9 @@ title: Steve Heinke
       <p style="font-size:0.95em; line-height:1.6; color:#444;">
         <strong>Address:</strong><br>
         Boulevard de Pérolles 90, 1700 Fribourg, Switzerland<br>
+      </p>
+      
+      <p style="font-size:0.95em; line-height:1.6; color:#444;">
         <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch" target="_blank">steve.heinke@unifr.ch</a><br>
         <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897" target="_blank">ORCID</a> | <a href="https://scholar.google.com/" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/steve-heinke-7b9209153/" target="_blank">LinkedIN</a> |<a href="https://osf.io/knbse/" target="_blank">OSF</a>  |  <a href="https://github.com/steveheinke" target="_blank">GitHub</a>
       </p>
@@ -75,8 +78,7 @@ title: Steve Heinke
   <p style="font-size: 0.85em; margin: 0;">
     <a href="#publications">Publications</a> | 
     <a href="#working-papers">Working Papers</a> | 
-    <a href="#research-in-progress-selected">Research</a> | 
-    <a href="#professional-services">Services</a> | 
+    <a href="#professional-services">Professional Services</a> | 
     <a href="#teaching-experience">Teaching</a> | 
     <a href="#academic-appointments">Academic Appointments</a> | 
     <a href="#education">Education</a>
