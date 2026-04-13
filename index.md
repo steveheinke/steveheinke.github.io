@@ -40,12 +40,14 @@ title: Steve Heinke
         <strong>Address:</strong><br>
         Boulevard de Pérolles 90, 1700 Fribourg, Switzerland<br>
         <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch">steve.heinke@unifr.ch</a><br>
-        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897">ORCID</a> | <a href="https://scholar.google.com/">Google Scholar</a> | <a href="https://github.com/steveheinke">GitHub</a>
+        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897">ORCID</a> | <a href="https://scholar.google.com/">Google Scholar</a> | <a href="https://www.linkedin.com/in/steve-heinke-7b9209153/">LinkedIN</a> |<a href="https://osf.io/knbse/">OSF</a>  |  <a href="https://github.com/steveheinke">GitHub</a>
       </p>
     </td>
   </tr>
 </table>
 <hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
+
+
 
 ---
 Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
