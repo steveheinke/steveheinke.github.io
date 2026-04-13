@@ -147,6 +147,7 @@ title: Steve Heinke
       </div>
     </button>
     <div class="menu-content">
+      <a href="#about-me">About me</a>
       <a href="#publications">Publications</a>
       <a href="#working-papers">Working Papers</a>
       <a href="#research-in-progress-selected">Research in Progress</a>
@@ -155,8 +156,8 @@ title: Steve Heinke
     </div>
 </div>
 
-<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
-
+---
+<div id="about-me"></div>
 <p style="font-size: 1em; padding: 10px; margin-top: 10px;">
 Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
 </p>
