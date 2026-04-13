@@ -2,14 +2,12 @@
 
 ---
 
-### Über mich
-Hier kannst du kurz beschreiben, woran du arbeitest und was dein akademischer Hintergrund ist. (Ähnlich wie bei Alex Imas).
+Experimental economist working on the cognitive and behavioral foundations of
+decision-making, with a focus on financial decision-making, attention, and learning.
 
-### Forschungsschwerpunkte
-* Thema A (z. B. Verhaltensökonomie)
-* Thema B (z. B. Statistische Modellierung)
 
-### Publikationen
+
+### Publications
 1.  **Titel des Papers (2024)**, Journal Name. [Link]
 2.  **Anderes Paper (2023)**, Journal Name. [Link]
 
