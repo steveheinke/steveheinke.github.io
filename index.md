@@ -2,41 +2,37 @@
 layout: default
 title: Steve Heinke
 ---
-
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:30%; vertical-align:top; border:none; padding-right:20px;">
-      <img src="Steve_Heinke.jpg" alt="Steve Heinke" style="width:100%; border-radius:4px;">
-      <p style="font-size:0.9em; line-height:1.4em; margin-top:20px;">
-        <strong>Address:</strong><br>
-        University of Fribourg<br>
-        Boulevard de Pérolles 90<br>
-        1700 Fribourg, CH
-      </p>
-      <p style="font-size:0.9em;">
-        <a href="mailto:steve.heinke@unifr.ch">Email</a><br>
-        <a href="https://orcid.org/0000-0002-9000-5897">ORCID</a><br>
-        <a href="https://scholar.google.ch/citations?user=odLtrdkAAAAJ&hl=en">Google Scholar</a>
-      </p>
+    <td style="width:250px; vertical-align:top; border:none; padding-right:30px;">
+      <img src="Steve_Heinke.jpg" alt="Steve Heinke" style="width:100%; max-width:220px; border-radius:2px;">
     </td>
+    
     <td style="vertical-align:top; border:none;">
-      <h1 style="margin-top:0;">Steve Heinke</h1>
-      <p>
-        Senior Researcher at the <strong>Mobiliar Center for Resilience</strong>, University of Fribourg. 
-        Experimental economist working on the cognitive and behavioral foundations of decision-making, 
-        with a focus on financial decision-making, information processing, attention, and learning.
+      <h1 style="margin-top:0; padding-top:0;">Steve Heinke</h1>
+      <p style="margin-bottom:10px;">
+        Senior Researcher at the <strong>Mobiliar Center for Resilience</strong>,<br>
+        University of Fribourg.
+      </p>
+      
+      <p style="font-size:0.95em; line-height:1.5;">
+        <strong>Address:</strong><br>
+        Boulevard de Pérolles 90, 1700 Fribourg, CH<br>
+        <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch">steve.heinke@unifr.ch</a><br>
+        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897">ORCID</a> | <a href="#">Google Scholar</a> | <a href="#">GitHub</a>
       </p>
 
-      <h3>Academic Appointments</h3>
-      <ul style="list-style-type:none; padding-left:0;">
+      <h3 style="margin-top:25px;">Academic Appointments</h3>
+      <ul style="list-style-type:none; padding-left:0; font-size:0.95em;">
         <li><strong>2024–</strong> Senior Researcher, University of Fribourg</li>
-        <li><strong>2017–2024</strong> Post-Doctoral Researcher, University of Basel</li>
-        <li><strong>2011–2017</strong> Research Assistant, University of Zurich</li>
+        <li><strong>2017–2024</strong> Post-Doc, University of Basel</li>
+        <li><strong>2011–2017</strong> Assistant, University of Zurich</li>
       </ul>
     </td>
   </tr>
 </table>
 
+<hr style="margin: 40px 0;">
 <hr>
 
 ---
