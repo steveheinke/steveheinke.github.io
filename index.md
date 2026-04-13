@@ -42,9 +42,21 @@ title: Steve Heinke
         <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch" target="_blank">steve.heinke@unifr.ch</a><br>
         <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897" target="_blank">ORCID</a> | <a href="https://scholar.google.com/" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/steve-heinke-7b9209153/" target="_blank">LinkedIN</a> |<a href="https://osf.io/knbse/" target="_blank">OSF</a>  |  <a href="https://github.com/steveheinke" target="_blank">GitHub</a>
       </p>
-<p style="font-size:0.95em;">
-        <strong>CV:</strong> <a href="CV_steveheinke.pdf" target="_blank">Download PDF</a>
-      </p>
+    <p style="margin-top: 15px;">
+      <a href="CV_steveheinke.pdf" target="_blank" style="
+        display: inline-block;
+        background-color: #000;
+        color: #fff;
+        padding: 8px 16px;
+        text-decoration: none;
+        border-radius: 4px;
+        font-size: 0.9em;
+        font-weight: bold;
+        transition: background-color 0.3s;
+      " onmouseover="this.style.backgroundColor='#333'" onmouseout="this.style.backgroundColor='#000'">
+        CV
+      </a>
+    </p>
     </td>
   </tr>
 </table>
@@ -53,7 +65,7 @@ title: Steve Heinke
 
 
 
-Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
+* Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
 ---
 ### Publications
 1. **Mental Capabilities, Heterogeneous Trading Behaviour and Performance in an Experimental Asset Market** *The Economic Journal*, 2025. (with A. Hefti and F. Schneider). [Link](https://academic.oup.com/ej/article-abstract/135/671/2161/8087333)
