@@ -26,7 +26,7 @@ title: Steve Heinke
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:230px; vertical-align:top; border:none; padding-right:30px;">
-      <img src="image_c9cf4a.jpg" alt="Steve Heinke" style="width:100%; max-width:210px; border-radius:2px;">
+      <img src="Steve_Heinke.jpg" alt="Steve Heinke" style="width:100%; max-width:210px; border-radius:2px;">
     </td>
     
     <td style="vertical-align:top; border:none;">
