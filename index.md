@@ -75,7 +75,7 @@ title: Steve Heinke
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Hier kannst du den Abstract-Text aus dem PDF oder dem Journal einfügen. Dieser Bereich klappt erst auf, wenn man auf "Abstract" klickt.
+        We study how variations in two mental capabilities—analytical capability (quantitative reasoning) and mentalising (assessing others’ behaviour)—drive heterogeneity in evaluations of identical information about an asset’s fundamental value and past prices. Our mental framework aligns with regularities observed in experimental asset markets, providing a cognitive basis for heterogeneous trading behaviour. Applied to an experimental market, it predicts that trading, performance and bubble-crash patterns crucially depend on mental capability differences. Traders proficient in both capabilities succeed most, while performance is otherwise non-monotonic in capabilities. Experimental results support these predictions, highlighting the important role of mental capabilities in asset markets.
       </p>
     </details>
   </li>
@@ -85,7 +85,7 @@ title: Steve Heinke
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Hier den Abstract für das zweite Paper einfügen.
+        Personal experiences can impact investors’ risk taking, and this can explain market phenomena such as time-varying risk premia, asset price bubbles or wage–price spirals. Establishing the link from individual experiences to market outcomes is challenging, as together with experiences, several decision-relevant factors simultaneously change. The present work investigates the impact of prior experiences on subsequent investments in a laboratory experiment without confounds, which allows for the control of various factors that usually are correlated with experience. The results show that high (low) previously experienced outcomes lead to more (less) investment in a risky asset, even in a condition where experiences do not provide new information and should be ignored. A reinforcement learning model captures the observed individual behavior and allows us to explain market price dynamics. The experience effect on risk taking informs behavioral theories of markets and provides a cognitive explanation for trend-following and self-enforcing market dynamics.
       </p>
     </details>
   </li>
@@ -95,7 +95,7 @@ title: Steve Heinke
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Hier den Abstract einfügen.
+       Recent studies confirm the main prediction of the rational inattention framework that the perceived value of information (top–down) as a key driver of attention. However, these investigations also report stimulus-driven salience effects (bottom–up) that counteract the framework’s predictions. In this manuscript, I propose an extension to the standard rational inattention model by incorporating bottom–up attention processes such as salience-effects through varying information processing costs. Applied to asset pricing with a representative agent a higher information salience generally reduces the cost of information processing (attention) needed for the same level of uncertainty reduction. Due to a substitution effect in the attention allocation across information, an attention-maximizing salience emerges. In general, a higher information salience consistently enhances asset price informativeness.
       </p>
     </details>
   </li>
@@ -105,7 +105,7 @@ title: Steve Heinke
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Hier den Abstract einfügen.
+        We study how the degree of personal responsibility in prior investment decisions affects the likelihood of changing an investment after experiencing a gain or loss. To this end we conduct a lab-in-the-field experiment with professional participants from the finance and controlling department of a large infrastructure company. Consistent with our hypothesis and prior findings from student samples we observe that lower personal responsibility in the decision is associated with a higher likelihood of changing the investment project after a loss. However, this effect disappears with age, which we interpret as experience in the professional career.
       </p>
     </details>
   </li>
@@ -115,7 +115,7 @@ title: Steve Heinke
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Hier den Abstract einfügen.
+        Investors’ belief-updating is often influenced by factors such as the current investment position and whether information is subjectively favorable. Such motivated beliefs can lead to profit harming decisions. We argue that the degree of involvement with the development of an investment is a driver of such motivated beliefs. In a pre-registered experiment we aim to lower involvement by delaying information and committing participants to a portfolio. We show that this brings participants’ beliefs significantly closer to a Bayesian benchmark. Separating information processing and belief-updating from decisions thus appears as a promising and easy to implement intervention to improve financial decisions.
       </p>
     </details>
   </li>
@@ -125,7 +125,8 @@ title: Steve Heinke
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Hier den Abstract einfügen.
+When making risky decisions, people should evaluate the consequences and the chances of the outcome occurring. We examine the risk-preference hypothesis, which states that people’s cognitive abilities affect their evaluation of choice options and consequently their risk-taking behavior. We compared the risk-preference hypothesis against a parsimonious error hypothesis, which states that lower cognitive abilities increase decision errors. Increased decision errors can be misinterpreted as more risk-seeking behavior because in most risk-taking tasks, random choice behavior is often misclassified as risk-seeking behavior. We tested these two competing hypotheses against each other with a systematic literature review and a Bayesian meta-analysis summarizing the empirical correlations. Results based on 30 studies and 62 effect sizes revealed no credible association between cognitive abilities and risk aversion. Apparent correlations between cognitive abilities and risk aversion can be explained by biased risk-preference-elicitation tasks, where more errors are misinterpreted as specific risk preferences. In sum, the reported associations between cognitive abilities and risk preferences are spurious and mediated by a misinterpretation of erroneous choice behavior. This result also has general implications for any research area in which treatment effects, such as decreased cognitive attention or motivation, could increase decision errors and be misinterpreted as specific preference changes.        
+
       </p>
     </details>
   </li>
@@ -135,7 +136,7 @@ title: Steve Heinke
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Hier den Abstract einfügen.
+        This article provides an introduction to the literature addressing the causes and consequences of limited attention in economics. We present a simple set-theoretic micro-structure describing the allocation of attention, and use this framework to explain the central notions of goal—and stimulus—driven attention mechanisms. After presenting empirical evidence on limited attention from psychology, marketing and internet research, we use our baseline setting to discuss a number of recent contributions featuring some form of limited attention or related phenomena, such as obfuscation.
       </p>
     </details>
   </li>
