@@ -6,8 +6,6 @@ title: Steve Heinke
 <style>
   /* Versteckt die Sidebar links komplett (inkl. Name und GitHub-Link) */
  header, footer { display: none !important; }
-  
-  /* WICHTIG: section muss relative sein, damit sticky einen Anker hat */
   section { 
     width: 100% !important; 
     max-width: 850px !important; 
@@ -16,9 +14,8 @@ title: Steve Heinke
     position: relative; 
   }
 
-  /* Der Menü-Button klebt nun am oberen Rand (0px vom Top) */
   .menu-dropdown {
-    position: -webkit-sticky; /* Safari Support */
+    position: -webkit-sticky;
     position: sticky;
     top: 10px; 
     float: left;
@@ -43,16 +40,26 @@ title: Steve Heinke
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
   }
 
-  /* Dropdown-Inhalt */
   .menu-content {
     display: none;
     position: absolute;
     left: 0;
+    top: 100%; /* Positioniert die Liste direkt unter dem Button */
     background-color: #fff;
     min-width: 220px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
     border: 1px solid #eee;
-    margin-top: 5px;
+    padding: 5px 0; /* Kleiner Puffer oben und unten */
+  }
+
+  /* Der Trick: Ein unsichtbares Element füllt die Lücke */
+  .menu-content::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: 0;
+    right: 0;
+    height: 10px;
   }
 
   .menu-content a {
@@ -61,10 +68,16 @@ title: Steve Heinke
     text-decoration: none;
     display: block;
     font-size: 0.9em;
-    border-bottom: 1px solid #f9f9f9;
   }
 
-  .menu-dropdown:hover .menu-content { display: block; }
+  .menu-content a:hover {
+    background-color: #f1f1f1;
+  }
+
+  /* Bleibt offen, wenn man über den Button ODER den Inhalt fährt */
+  .menu-dropdown:hover .menu-content {
+    display: block;
+  }
   
 
   /* Versteckt den Footer (Hosted on GitHub etc.) */
