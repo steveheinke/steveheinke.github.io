@@ -2,38 +2,50 @@
 layout: default
 title: Steve Heinke
 ---
+
+<style>
+  /* Versteckt die Sidebar links komplett (inkl. Name und GitHub-Link) */
+  header { display: none !important; }
+  
+  /* Versteckt den Footer (Hosted on GitHub etc.) */
+  footer { display: none !important; }
+  
+  /* Zentriert den Inhalt und nutzt die volle Breite */
+  section { 
+    width: 100% !important; 
+    max-width: 850px !important; 
+    margin: 0 auto !important; 
+    padding: 40px 20px !important;
+  }
+
+  /* Verhindert, dass Markdown-Titel (h1) die Sidebar wieder triggern */
+  #title { display: none; }
+</style>
+
+
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:250px; vertical-align:top; border:none; padding-right:30px;">
-      <img src="Steve_Heinke.jpg" alt="Steve Heinke" style="width:100%; max-width:220px; border-radius:2px;">
+    <td style="width:230px; vertical-align:top; border:none; padding-right:30px;">
+      <img src="image_c9cf4a.jpg" alt="Steve Heinke" style="width:100%; max-width:210px; border-radius:2px;">
     </td>
     
     <td style="vertical-align:top; border:none;">
-      <p style="margin-bottom:10px;">
+      <h1 style="margin-top:0; padding-top:0; font-size:2.2em; color:#111; border-bottom:none;">Steve Heinke</h1>
+      <p style="font-size:1.15em; margin-bottom:15px; line-height:1.4;">
         Senior Researcher at the <strong>Mobiliar Center for Resilience</strong>,<br>
         University of Fribourg.
       </p>
       
-      <p style="font-size:0.95em; line-height:1.5;">
+      <p style="font-size:0.95em; line-height:1.6; color:#444;">
         <strong>Address:</strong><br>
-        Boulevard de Pérolles 90, 1700 Fribourg, CH<br>
+        Boulevard de Pérolles 90, 1700 Fribourg, Switzerland<br>
         <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch">steve.heinke@unifr.ch</a><br>
-        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897">ORCID</a> | <a href="#">Google Scholar</a> | <a href="#">GitHub</a>
+        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897">ORCID</a> | <a href="https://scholar.google.com/">Google Scholar</a> | <a href="https://github.com/steveheinke">GitHub</a>
       </p>
-
-      <h3 style="margin-top:25px;">Academic Appointments</h3>
-      <ul style="list-style-type:none; padding-left:0; font-size:0.95em;">
-        <li><strong>2024–</strong> Senior Researcher, University of Fribourg</li>
-        <li><strong>2017–2024</strong> Post-Doc, University of Basel</li>
-        <li><strong>2011–2017</strong> Assistant, University of Zurich</li>
-      </ul>
     </td>
   </tr>
 </table>
-
-<hr style="margin: 40px 0;">
-<hr>
-
+<hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
 ---
 
 ### Publications
