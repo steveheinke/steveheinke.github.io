@@ -64,9 +64,9 @@ title: Steve Heinke
 
 
 
-
-*Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.*
-
+<p style="font-size: 1em; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.*
+</p>
 ---
 ### Publications
 <ol>
