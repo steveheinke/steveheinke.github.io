@@ -7,15 +7,76 @@ title: Steve Heinke
   /* Versteckt die Sidebar links komplett (inkl. Name und GitHub-Link) */
   header { display: none !important; }
       
-    .sticky-menu {
-      position: -webkit-sticky;
+  header, footer { display: none !important; }
+  section { width: 100% !important; max-width: 850px !important; margin: 0 auto !important; padding: 40px 20px !important; }
+
+  /* Der Menü-Container */
+  .menu-dropdown {
+    position: relative;
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  /* Der Button selbst */
+  .menu-button {
+    background-color: #000;
+    color: white;
+    padding: 10px 15px;
+    font-size: 0.9em;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  /* Die drei Linien (Hamburger Icon) */
+  .hamburger {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 12px;
+    width: 18px;
+  }
+  .hamburger span { height: 2px; width: 100%; background: white; display: block; }
+
+  /* Das Dropdown-Menü */
+  .menu-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
+    z-index: 1001;
+    border: 1px solid #eee;
+    margin-top: 5px;
+  }
+
+  .menu-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 0.9em;
+  }
+  .menu-content a:hover { background-color: #f9f9f9; }
+
+  /* Zeigt das Menü beim Drüberfahren (Hover) */
+  .menu-dropdown:hover .menu-content { display: block; }
+
+  /* Sticky-Effekt: Der Button wandert beim Scrollen nach oben rechts */
+  @media screen and (min-width: 1024px) {
+    .menu-dropdown {
       position: sticky;
-      top: 0;
-      background-color: white;
-      padding: 10px 0;
-      border-bottom: 1px solid #eee;
-      z-index: 1000;
+      top: 20px;
+      float: right;
+      z-index: 2000;
     }
+  }
 
   /* Versteckt den Footer (Hosted on GitHub etc.) */
   footer { display: none !important; }
@@ -53,7 +114,7 @@ title: Steve Heinke
       
       <p style="font-size:0.95em; line-height:1.6; color:#444;">
         <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch" target="_blank">steve.heinke@unifr.ch</a><br>
-        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897" target="_blank">ORCID</a> | <a href="https://scholar.google.com/" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/steve-heinke-7b9209153/" target="_blank">LinkedIN</a> |<a href="https://osf.io/knbse/" target="_blank">OSF</a>  |  <a href="https://github.com/steveheinke" target="_blank">GitHub</a>
+        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897" target="_blank">ORCID</a> | <a href="https://scholar.google.com/citations?user=odLtrdkAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/steve-heinke-7b9209153/" target="_blank">LinkedIN</a> |<a href="https://osf.io/knbse/" target="_blank">OSF</a>  |  <a href="https://github.com/steveheinke" target="_blank">GitHub</a>
       </p>
     <p style="margin-top: 15px;">
       <a href="CV_steveheinke.pdf" target="_blank" style="
@@ -74,16 +135,25 @@ title: Steve Heinke
   </tr>
 </table>
 
-<div class="sticky-menu">
-  <p style="font-size: 0.85em; margin: 0;">
-    <a href="#publications">Publications</a> | 
-    <a href="#working-papers">Working Papers</a> | 
-    <a href="#professional-services">Professional Services</a> | 
-    <a href="#teaching-experience">Teaching</a> | 
-    <a href="#academic-appointments">Academic Appointments</a> | 
-    <a href="#education">Education</a>
-  </p>
+<div class="menu-dropdown">
+  <button class="menu-button">
+    Menu
+    <div class="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </button>
+  <div class="menu-content">
+    <a href="#publications">Publications</a>
+    <a href="#working-papers">Working Papers</a>
+    <a href="#research-in-progress-selected">Research in Progress</a>
+    <a href="#professional-services">Professional Services</a>
+    <a href="#teaching-experience">Teaching Experience</a>
+  </div>
 </div>
+
+<div style="clear: both;"></div>
 
 <p style="font-size: 1em; padding: 10px; margin-top: 10px;">
 Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
