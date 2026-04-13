@@ -83,11 +83,7 @@ title: Steve Heinke
   </p>
 </div>
 
-<hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
-
-
-
-<p style="font-size: 1em; padding: 10px; margin-top: -40px;">
+<p style="font-size: 1em; padding: 10px; margin-top: -20px;">
 Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
 </p>
 
