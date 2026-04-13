@@ -4,8 +4,8 @@ title: Steve Heinke
 ---
 
 <style>
-  /* Versteckt die Sidebar links komplett (inkl. Name und GitHub-Link) */
- header, footer { display: none !important; }
+  /* Grundlayout */
+  header, footer { display: none !important; }
   section { 
     width: 100% !important; 
     max-width: 850px !important; 
@@ -14,14 +14,21 @@ title: Steve Heinke
     position: relative; 
   }
 
+  /* Container für Menu und Einleitungstext */
+  .menu-text-container {
+    display: flex;
+    align-items: flex-start; /* Richtet Box und Text oben bündig aus */
+    gap: 25px;               /* Abstand zwischen Button und Text */
+    margin-bottom: 20px;
+  }
+
+  /* Der Menu-Button-Container */
   .menu-dropdown {
     position: -webkit-sticky;
     position: sticky;
-    top: 10px; 
-    float: left;
+    top: 20px;               /* Abstand zum oberen Rand beim Scrollen */
     z-index: 9999;
-    margin-bottom: 20px;
-    margin-right: 20px;
+    flex-shrink: 0;          /* Verhindert, dass die Box schmaler wird */
   }
 
   .menu-button {
@@ -37,22 +44,23 @@ title: Steve Heinke
     border-radius: 4px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   }
 
+  /* Dropdown Liste */
   .menu-content {
     display: none;
     position: absolute;
     left: 0;
-    top: 100%; /* Positioniert die Liste direkt unter dem Button */
+    top: 100%;               /* Direkt unter dem Button */
     background-color: #fff;
     min-width: 220px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
     border: 1px solid #eee;
-    padding: 5px 0; /* Kleiner Puffer oben und unten */
+    padding: 5px 0;
   }
 
-  /* Der Trick: Ein unsichtbares Element füllt die Lücke */
+  /* Unsichtbarer Puffer, damit das Menü beim Bewegen der Maus nicht schließt */
   .menu-content::before {
     content: "";
     position: absolute;
@@ -68,15 +76,39 @@ title: Steve Heinke
     text-decoration: none;
     display: block;
     font-size: 0.9em;
+    border-bottom: 1px solid #f9f9f9;
   }
+  .menu-content a:last-child { border-bottom: none; }
+  .menu-content a:hover { background-color: #f1f1f1; }
 
-  .menu-content a:hover {
-    background-color: #f1f1f1;
-  }
-
-  /* Bleibt offen, wenn man über den Button ODER den Inhalt fährt */
+  /* Zeigt das Menü beim Hovern über den Container */
   .menu-dropdown:hover .menu-content {
     display: block;
+  }
+
+  /* Back to Top Button (unten links) */
+  .back-to-top {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background-color: #f1f1f1;
+    color: #000;
+    padding: 8px 12px;
+    font-size: 0.75em;
+    text-decoration: none;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    z-index: 9999;
+    font-weight: bold;
+    opacity: 0.7;
+    transition: opacity 0.3s;
+  }
+  .back-to-top:hover { opacity: 1; background-color: #000; color: #fff; }
+
+  /* Responsive Fix für Handys */
+  @media (max-width: 600px) {
+    .menu-text-container { flex-direction: column; gap: 15px; }
+    .menu-dropdown { position: relative; top: 0; float: none; }
   }
   
 
@@ -139,9 +171,10 @@ title: Steve Heinke
 </table>
 ---
 
-<div class="menu-dropdown">
-  <button class="menu-button">
-    Menu
+<div class="menu-text-container">
+  <div class="menu-dropdown">
+    <button class="menu-button">
+      Menu
       <div class="hamburger">
         <span></span>
         <span></span>
@@ -157,12 +190,12 @@ title: Steve Heinke
       <a href="#teaching-experience">Teaching Experience</a>
     </div>
 </div>
-
-
-
-<p style="font-size: 1em; padding: 10px; margin-top: 10px;">
-Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
-</p>
+<p style="font-size:1.15em; line-height:1.4; margin: 0; padding-top: 2px;">
+    Experimental economist working on the cognitive and behavioral foundations of 
+    decision-making, with a focus on financial decision-making, information 
+    processing, attention, and learning.
+  </p>
+</div>
 
 ---
 
