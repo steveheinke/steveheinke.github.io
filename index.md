@@ -9,7 +9,6 @@ title: Steve Heinke
     </td>
     
     <td style="vertical-align:top; border:none;">
-      <h1 style="margin-top:0; padding-top:0;">Steve Heinke</h1>
       <p style="margin-bottom:10px;">
         Senior Researcher at the <strong>Mobiliar Center for Resilience</strong>,<br>
         University of Fribourg.
@@ -59,11 +58,4 @@ title: Steve Heinke
 
 ---
 
-### Contact
-**Email**: [steve.heinke@unifr.ch](mailto:steve.heinke@unifr.ch)  
-**Links**: [ORCID](https://orcid.org/0000-0002-9000-5897) | [Google Scholar](https://scholar.google.com/) | [GitHub](https://github.com/steveheinke)
 
-**Address**:  
-University of Fribourg  
-Boulevard de Pérolles 90  
-1700 Fribourg, Switzerland
