@@ -8,21 +8,22 @@ title: Steve Heinke
   header { display: none !important; }
       
   header, footer { display: none !important; }
-  section { width: 100% !important; max-width: 850px !important; margin: 0 auto !important; padding: 40px 20px !important; }
+  section { width: 100% !important; max-width: 850px !important; margin: 0 auto !important; padding: 40px 20px !important; position: relative; }
 
-  /* Der Menü-Container */
+  /* Menü-Container rechts positioniert */
   .menu-dropdown {
-    position: relative;
-    display: inline-block;
-    margin-top: 20px;
+    position: sticky;
+    top: 20px;
+    float: right;
+    z-index: 2000;
+    margin-bottom: 20px;
   }
 
-  /* Der Button selbst */
   .menu-button {
     background-color: #000;
     color: white;
     padding: 10px 15px;
-    font-size: 0.9em;
+    font-size: 0.85em;
     font-weight: bold;
     border: none;
     cursor: pointer;
@@ -31,27 +32,28 @@ title: Steve Heinke
     border-radius: 4px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   }
 
-  /* Die drei Linien (Hamburger Icon) */
   .hamburger {
     margin-left: 10px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 12px;
-    width: 18px;
+    height: 10px;
+    width: 16px;
   }
   .hamburger span { height: 2px; width: 100%; background: white; display: block; }
 
-  /* Das Dropdown-Menü */
+  /* Dropdown klappt nach links auf, damit es im Bild bleibt */
   .menu-content {
     display: none;
     position: absolute;
+    right: 0;
     background-color: #fff;
-    min-width: 200px;
+    min-width: 220px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
-    z-index: 1001;
+    z-index: 2001;
     border: 1px solid #eee;
     margin-top: 5px;
   }
@@ -62,21 +64,15 @@ title: Steve Heinke
     text-decoration: none;
     display: block;
     font-size: 0.9em;
+    border-bottom: 1px solid #f9f9f9;
   }
-  .menu-content a:hover { background-color: #f9f9f9; }
+  .menu-content a:last-child { border-bottom: none; }
+  .menu-content a:hover { background-color: #f1f1f1; }
 
-  /* Zeigt das Menü beim Drüberfahren (Hover) */
   .menu-dropdown:hover .menu-content { display: block; }
-
-  /* Sticky-Effekt: Der Button wandert beim Scrollen nach oben rechts */
-  @media screen and (min-width: 1024px) {
-    .menu-dropdown {
-      position: sticky;
-      top: 20px;
-      float: right;
-      z-index: 2000;
-    }
-  }
+  
+  /* Hilfsklasse zum Beenden des Floats */
+  .clearfix::after { content: ""; clear: both; display: table; }
 
   /* Versteckt den Footer (Hosted on GitHub etc.) */
   footer { display: none !important; }
@@ -135,25 +131,27 @@ title: Steve Heinke
   </tr>
 </table>
 
-<div class="menu-dropdown">
-  <button class="menu-button">
-    Menu
-    <div class="hamburger">
-      <span></span>
-      <span></span>
-      <span></span>
+<div class="clearfix">
+  <div class="menu-dropdown">
+    <button class="menu-button">
+      Menu
+      <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </button>
+    <div class="menu-content">
+      <a href="#publications">Publications</a>
+      <a href="#working-papers">Working Papers</a>
+      <a href="#research-in-progress-selected">Research in Progress</a>
+      <a href="#professional-services">Professional Services</a>
+      <a href="#teaching-experience">Teaching Experience</a>
     </div>
-  </button>
-  <div class="menu-content">
-    <a href="#publications">Publications</a>
-    <a href="#working-papers">Working Papers</a>
-    <a href="#research-in-progress-selected">Research in Progress</a>
-    <a href="#professional-services">Professional Services</a>
-    <a href="#teaching-experience">Teaching Experience</a>
   </div>
 </div>
 
-<div style="clear: both;"></div>
+<hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
 
 <p style="font-size: 1em; padding: 10px; margin-top: 10px;">
 Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
