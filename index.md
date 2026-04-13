@@ -32,7 +32,7 @@ title: Steve Heinke
     <td style="vertical-align:top; border:none;">
       <h1 style="margin-top:0; padding-top:0; font-size:2.2em; color:#111; border-bottom:none;">Steve Heinke</h1>
       <p style="font-size:1.15em; margin-bottom:15px; line-height:1.4;">
-        Senior Researcher at the <strong>Mobiliar Center for Resilience</strong>,<br>
+        Senior Researcher at the <strong><a href="https://www.unifr.ch/mobiliarcenter/en/">Mobiliar Center for Resilience </a> </strong>,<br>
         University of Fribourg.
       </p>
       
@@ -65,7 +65,8 @@ title: Steve Heinke
 
 
 
-* Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
+*Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.*
+
 ---
 ### Publications
 1. **Mental Capabilities, Heterogeneous Trading Behaviour and Performance in an Experimental Asset Market** *The Economic Journal*, 2025. (with A. Hefti and F. Schneider). [Link](https://academic.oup.com/ej/article-abstract/135/671/2161/8087333)
