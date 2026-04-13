@@ -39,8 +39,11 @@ title: Steve Heinke
       <p style="font-size:0.95em; line-height:1.6; color:#444;">
         <strong>Address:</strong><br>
         Boulevard de Pérolles 90, 1700 Fribourg, Switzerland<br>
-        <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch">steve.heinke@unifr.ch</a><br>
-        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897">ORCID</a> | <a href="https://scholar.google.com/">Google Scholar</a> | <a href="https://www.linkedin.com/in/steve-heinke-7b9209153/">LinkedIN</a> |<a href="https://osf.io/knbse/">OSF</a>  |  <a href="https://github.com/steveheinke">GitHub</a>
+        <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch" target="_blank">steve.heinke@unifr.ch</a><br>
+        <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897" target="_blank">ORCID</a> | <a href="https://scholar.google.com/" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/steve-heinke-7b9209153/" target="_blank">LinkedIN</a> |<a href="https://osf.io/knbse/" target="_blank">OSF</a>  |  <a href="https://github.com/steveheinke" target="_blank">GitHub</a>
+      </p>
+<p style="font-size:0.95em;">
+        <strong>CV:</strong> <a href="CV_steveheinke.pdf" target="_blank">Download PDF</a>
       </p>
     </td>
   </tr>
@@ -49,9 +52,9 @@ title: Steve Heinke
 
 
 
----
-Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
 
+Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
+---
 ### Publications
 1. **Mental Capabilities, Heterogeneous Trading Behaviour and Performance in an Experimental Asset Market** *The Economic Journal*, 2025. (with A. Hefti and F. Schneider). [Link](https://academic.oup.com/ej/article-abstract/135/671/2161/8087333)
 2. **Experiences, Demand for Risky Investments, and Implications for Price Dynamics** *Journal of Behavioral and Experimental Finance*, 2025. (with S. Olschewski and J. Rieskamp). [Link](https://www.sciencedirect.com/science/article/pii/S2214635024000546)
