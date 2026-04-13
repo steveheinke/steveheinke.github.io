@@ -118,8 +118,8 @@ title: Steve Heinke
     <td style="vertical-align:top; border:none;">
       <h1 style="margin-top:0; padding-top:0; font-size:2.2em; color:#111; border-bottom:none;">Steve Heinke</h1>
       <p style="font-size:1.15em; margin-bottom:15px; line-height:1.4;">
-        Senior Researcher at the <strong><a href="https://www.unifr.ch/mobiliarcenter/en/" target="_blank">Mobiliar Center for Resilience </a> </strong>,<br>
-       <a href="https://www.unifr.ch/directory/de/people/395662/1b522" target="_blank"> University of Fribourg </a>.
+        Senior Researcher at the <strong><a href="https://www.unifr.ch/mobiliarcenter/en/" target="_blank">Mobiliar Center for Resilience</a> </strong>,<br>
+       <a href="https://www.unifr.ch/directory/de/people/395662/1b522" target="_blank"> University of Fribourg</a>.
       </p>
        
       <p style="font-size:0.95em; line-height:1.6; color:#444;">
