@@ -32,7 +32,7 @@ title: Steve Heinke
     <td style="vertical-align:top; border:none;">
       <h1 style="margin-top:0; padding-top:0; font-size:2.2em; color:#111; border-bottom:none;">Steve Heinke</h1>
       <p style="font-size:1.15em; margin-bottom:15px; line-height:1.4;">
-        Senior Researcher at the <strong><a href="https://www.unifr.ch/mobiliarcenter/en/">Mobiliar Center for Resilience </a> </strong>,<br>
+        Senior Researcher at the <strong><a href="https://www.unifr.ch/mobiliarcenter/en/" target="_blank">Mobiliar Center for Resilience </a> </strong>,<br>
         University of Fribourg.
       </p>
       
@@ -143,11 +143,192 @@ When making risky decisions, people should evaluate the consequences and the cha
 </ol>
 ---
 
-### Working Papers & Under Review
-* **Avoiding Bad Risks: How Risk Aversion Is Beneficial for Financial Decision-Making** *Under review at Management Science*. [Working Paper](https://www.dropbox.com/scl/fi/p9y26uwnpzkq8licl67mc/ManScie_main.pdf?rlkey=oufmmfq3g4j2kmlu5xdiulqj5&dl=0)
-* **The Elusive Neural Signature of Emotion Regulation Capabilities** *Revision invited at Nature*. [Preprint](https://www.biorxiv.org/content/10.1101/2025.08.18.670843v1.full.pdf)
-* **The Robustness of Mental Accounting Around the World** *Revision invited at Journal of Consumer Research*. [Link](https://iris.unitn.it/handle/11572/448890)
+### Working Papers 
+<ol>
+  <li>
+    <a href="https://www.dropbox.com/scl/fi/p9y26uwnpzkq8licl67mc/ManScie_main.pdf?rlkey=oufmmfq3g4j2kmlu5xdiulqj5&dl=0" target="_blank">Avoiding Bad Risks: How Risk Aversion Is Beneficial for Financial Decision-Making</a>, with S. Maier et al., 2026. <em>Under review at Management Science</em>.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        hat investor behaviors and characteristics affect performance the most? The existing
+literature is diverse and separately associates cognitive abilities, economic preferences, and
+neural signals with trading behavior and outcomes. We advance the literature through a
+comprehensive comparison of which of these trading behaviors and individual characteristics
+matter most for investor performance. Using administrative trading records from 143,000
+retail portfolios, linked to experimentally validated measures of cognitive abilities, economic
+preferences, and neural signals for a subset, we implement a preregistered Bayesian model
+averaging framework to evaluate the full model space without selective reporting. We find
+that performance improves not through greater risk-taking, but primarily through consis-
+tent avoidance of uncompensated idiosyncratic risk. Across all specifications, risk aver-
+sion and self-control emerge as the only robust individual differences associated with better
+risk-adjusted performance, primarily because they predict lower exposure to idiosyncratic
+risk and more stable trading behavior. Moreover, investors who diversify, trade less and
+avoid complex or lottery-like assets substantially reduce idiosyncratic volatility, which ac-
+counts for the majority of cross-sectional variation in total portfolio risk. In contrast, widely
+cited sources of heterogeneity—including overconfidence, cognitive ability, and theory of
+mind—show little or no reliable association with investor trading behaviors and perfor-
+mance once model uncertainty is taken into account. These findings clarify the behavioral
+foundations of household portfolio choice and provide an empirical basis for a more unified
+model of financial decision-making, with clear implications for theory, policy, and investor
+support tools.
+      </p>
+    </details>
+  </li>
 
+  <li style="margin-top: 15px;">
+    <a href="https://www.biorxiv.org/content/10.1101/2025.08.18.670843v1.full.pdf" target="_blank">The Elusive Neural Signature of Emotion Regulation Capabilities: Evidence from a Large-Scale Consortium</a>, with C. Morawetz, M. Sicorello, et al., 2026. <em>First revision invited at Nature</em>.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Cognitive reappraisal is a fundamental emotion regulation strategy for mental and
+physical well-being, but how its neural mechanisms relate to individual differences remains
+poorly understood. In a consortium effort analyzing 40 fMRI datasets (N=2,175), we examined
+the relationship between neural activation during reappraisal tasks and three core individual
+difference indices of reappraisal capabilities: (1) trait questionnaires, (2) task-based affective
+ratings, and (3) amygdala down-regulation. Strikingly, there was no shared overlap across these
+three common indices. Only a very weak correlation emerged between amygdala downregulation and task-based affective ratings. Whole-brain analyses revealed no reliable neural
+associations with trait questionnaires, and associations with task-based affective ratings fell
+outside canonical emotion regulation networks (e.g., prefrontal circuitry). Moreover, amygdala
+down-regulation, often interpreted as a stable individual marker, was confounded by personspecific whole-brain responses — a limitation extending to fMRI research beyond the emotion
+regulation domain. These findings challenge the assumption that an individual’s prefrontal
+activity is a valid indicator of their reappraisal capabilities and suggest that common trait,
+behavioral, and neural measures might capture distinct facets of emotion regulation. More
+broadly, our results highlight concrete methodological challenges for fMRI research on
+individual differences, with implications extending beyond emotion regulation to the
+neuroscience of personality, psychopathology, and general well-being. 
+
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://iris.unitn.it/handle/11572/448890" target="_blank">The Robustness of Mental Accounting Around the World</a>, with E. Rubaltelli, G. Priolo, et al., 2026. <em>Second revision invited at Journal of Consumer Research</em>.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        First introduced four decades ago, the influential concept of mental accounting—how 
+people mentally organize, evaluate, and track financial activities—posits that consumers 
+often defy traditional economic rationality, treating money as non-fungible across discrete 
+mental accounts. In this research, we present the first large-scale test of the replicability and 
+generalizability of mental accounting effects, using a sample of 5,589 participants from 21 
+countries. Our results demonstrate that mental accounting effects are replicable, robust, and 
+generalizable. Hierarchical Bayesian meta-analyses revealed a 100% replication rate for all 
+tested scenarios, while unpooled analyses showed a 90.5% replication rate (133/147 effects). 
+Further analysis found that effects observed in higher-income countries may be weaker in 
+lower-income countries. Multidimensional scaling suggested that mental accounting effects 
+vary along three interpretable dimensions that reflect social context (individual vs interactive 
+decisions), decision perspective (deciding for self vs other), and role in price determination 
+(setting vs evaluating prices). Across a diverse population and controlling for multiple 
+factors, we show that consumers make decisions based on mentally-formed accounts that 
+consistently diverge from their objective financial value
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://www.dropbox.com/scl/fi/z7xy2toa6455290nqqnr5/Marti_Olschewski_Trutmann_Rieskamp_Heinke_2026_whats-important-under-the-hood.pdf?rlkey=c7g4tvum4x1hmt9i81ywunsid&dl=0" target="_blank">What’s Important Under the Hood? Decomposing Financial Decisions Through Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Why do individuals systematically depart from rational choice? The success of behavioral economics
+led to a plethora of theories answering this question building on overlapping mechansims incorporating
+psychological and cognitive sciences insights. Progress toward a more parsimonious and generalizable
+unified theoretical framework requires identifying which mechanisms matter most in explaining decisions.
+We develop a systematic framework that isolates and ranks the predictive importance of core behavioral
+mechanisms in sequential risk-taking with feedback – one of the intensivly researched decisions in behavi-
+oral economics. Based on an expert survey and a systematic literature review, we identify and compare as
+mechanisms: risk preferences, loss aversion, probability weighting, behavioral inertia, asymmetric updat-
+ing, Bayesian updating, and reinforcement learning. We estimate all theoretically feasible combinations
+of these mechanisms and compare their explanatory power across three datasets of repeated financial
+decisions with immediate feedback. Our approach allows us to quantify each mechanism’s marginal
+contribution. All seven mechanisms improve explanatory power relative to Bayesian expected-value max-
+imization. Behavioral inertia yields the largest gains through strong choice persistence and helps explain
+both aggregate and individual behavior. Asymmetric updating adds predictive power when feedback is
+informative, revealing systematic overreaction to gains and underreaction to losses. Probability weighting
+contributes meaningfully when identifiable. Linking individual parameters to performance further shows
+that higher risk tolerance and learning rates closer to Bayesian updating predict superior decision quality.
+Our approach offers a generalizable, data-driven framework for identifying the mechanisms underlying
+decisions, thereby informing theory development, experimental design, and policy interventions.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://www.dropbox.com/scl/fi/p3fi1nj35wwdsr722hg4l/Energy_Mix_Choice_under_Cognitive_Constraints_main.pdf?rlkey=z2r6zv3t0s2ri14t82d7rqi68&dl=0" target="_blank">Too Much Choice? A Lab-in-the-Field Experiment on Choice Overload, Cognitive Constraints, and Consumer Welfare in Electricity Contracts Decisions</a>, with S. Olschewski and C. Roux, 2026. <em>Under review at JEBO</em>.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Standard economic theory assumes that more options improve welfare, whereas the
+choice-overload literature suggests the opposite. Existing evidence is mixed, partly
+due to heterogeneous outcome measures, limited experimental control, and a lack of
+consensus on underlying mechanisms. We address these challenges in a pre-registered
+lab-in-the-field experiment in which 284 German households make incentivized electri-
+city contract choices. We contrast (i) choice-set size manipulation with a (ii) cognit-
+ive load manipulation, a cognitively well-understood method to experimentally vary
+information-processing capacity. While both manipulations lead to more dominated
+choices, only cognitive load reduces choice consistency and welfare. In contrast, larger
+choice sets lead to more dominated choices simply because they create more oppor-
+tunities for random error. Structural estimates from a parsimonious stochastic choice
+model motivated by rational inattention confirm that cognitive load increases decision
+noise, whereas attribute weights remain stable across conditions. Despite a higher rate
+of dominated choices, expanding the option set improves consumer welfare because
+participants remain sufficiently consistent to identify better-matching contracts. Our
+findings suggest that easing cognitive demands, rather than restricting choice options,
+is more effective in improving consumer welfare.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://tinyurl.com/2v4sk3vz" target="_blank">How to Improve the Measurement Quality of Behavioral Tasks Eliciting Risk Preferences?</a>, with O. Schürmann, S. Andraszewicz, and J. Rieskamp, 2026. <em>Under review at Scientific Reports</em>.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Investigating the risk preferences of decision makers is important for researchers study-
+ing decision making and practitioners (i.e., professionals in a variety of fields) who give
+advice. Behavioral tasks, which infer a person’s risk preference from their observed risk-
+taking behavior with real consequences, should be less susceptible to “cheap talk” than
+self-report measures. Additionally, behavioral measures enable for objective characteriza-
+tion of risk attributes between different choice options, thus allowing for a more rigorous
+investigation compared to subjective surveys relying solely on language-based descriptions.
+Finally, the objective nature of behavioral tasks is expected to facilitate generalization to
+predict decision-making behavior in new situations. However, they often have low test–
+retest reliability, meaning that a decision made at one time may not predict a decision
+made at another time within the same task. We suggest that increasing the engagement
+with tasks through changes in the choice architecture can improve the test–retest reliabil-
+ity of behavioral tasks. We developed a new measure that includes features of self-report
+measures, such as providing contextual background narratives for otherwise abstract de-
+cisions, including both gains and losses, eliciting multiple decisions, and varying the size
+of outcomes. We compared this task with other common behavioral tasks and self-report
+measures. We found that the proposed task has a higher test–retest correlation, driven
+by observing multiple decisions, providing context, and including gains and losses. We
+discuss the challenges of eliciting risk preferences and propose new directions for doing
+so.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3935798" target="_blank">Belief Updating and Investment Decisions: The Impact of Good or Bad News Varies with Prior Returns</a>, with K. Trutmann and J. Rieskamp, 2023.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        How individuals form expectations impacts decision-making and economic well-being.
+Past research indicates deviations from normative belief updating. Based on cognitive mechanisms we argue that contradictory information relative to the performance of an investment has a larger impact on belief updating than confirmatory information. A pre-registered experimental investment task confirms the resulting hypothesis that for loosing investments belief updates are stronger for positive news than negative; for investment with gains negative news lead to stronger belief updates than positive news. A structural model, using context-sensitive learning-rates in a reinforcement-learning framework, captures this mechanism. The analysis shows that the added complexity by the model improves explanatory power over parsimonious models. This belief-updating pattern drives profit-harming investment decisions. Providing accurate information enhances belief updating and investment choices. Overall, our findings highlight that cognitive mechanisms offer a unifying explanation for regularly observed belief updating patterns and well-known profit-harming behaviors across professional and retail investors.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3691829" target="_blank">This Time Is Different: On Similarity and Risk Taking After Experienced Gains and Losses</a>, with A. Leuenberger and J. Rieskamp, 2021.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        How do past experiences of losses or gains affect risk taking? Research shows inconsistent effects of prior outcomes on risk taking. To resolve these inconsistencies we propose a similarity-based theory of how past outcomes could affect decisions: Only past situations similar to the current situation affect decisions. Consistent with the similarity theory, the results of a preregistered experiment show that the less similar a prior decision situation is on task-relevant dimensions, the weaker its effect on the current decision. In sum, incorporating similarity into decision-making theory provides a cognitively based explanation of how past experiences influence current decisions under risk.
+      </p>
+    </details>
+  </li>
+</ol>
 ---
 
 ### Professional Services
