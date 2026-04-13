@@ -46,7 +46,9 @@ title: Steve Heinke
   </tr>
 </table>
 <hr style="margin: 40px 0; border: 0; border-top: 1px solid #eee;">
+
 ---
+Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
 
 ### Publications
 1. **Mental Capabilities, Heterogeneous Trading Behaviour and Performance in an Experimental Asset Market** *The Economic Journal*, 2025. (with A. Hefti and F. Schneider). [Link](https://academic.oup.com/ej/article-abstract/135/671/2161/8087333)
@@ -63,9 +65,17 @@ title: Steve Heinke
 
 ---
 
-### Professional Service & Education
+### Professional Services
 * **Editorial Board**: Journal of Behavioral Decision Making (since 2023)
+
+### Academic Appointments
+* **2024–** Senior Researcher, University of Fribourg
+* **2017–2024** Post-Doc, University of Basel
+* **2011–2017** Research & Teaching Assistant, University of Zurich
+
+### Education
 * **PhD in Economics**: University of Zurich (2016)
+* **MA in Economics**: University of Munich (2009)
 * **BA Philosophy & Economics**: University of Bayreuth (2008)
 
 ---
