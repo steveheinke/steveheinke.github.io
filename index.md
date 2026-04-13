@@ -69,11 +69,77 @@ title: Steve Heinke
 
 ---
 ### Publications
-1. **Mental Capabilities, Heterogeneous Trading Behaviour and Performance in an Experimental Asset Market** *The Economic Journal*, 2025. (with A. Hefti and F. Schneider). [Link](https://academic.oup.com/ej/article-abstract/135/671/2161/8087333)
-2. **Experiences, Demand for Risky Investments, and Implications for Price Dynamics** *Journal of Behavioral and Experimental Finance*, 2025. (with S. Olschewski and J. Rieskamp). [Link](https://www.sciencedirect.com/science/article/pii/S2214635024000546)
-3. **Top–Down and Bottom–Up Information Acquisition: Applications to Financial Markets** *Economics Letters*, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0165176524001009)
-4. **Degree of Personal Responsibility in Decisions and Investment Abandonment** *Journal of Behavioral Finance*, 2023. (with K. Trutmann and C. Rudin). [Link](https://www.tandfonline.com/doi/full/10.1080/15427560.2023.2228549)
+<ol>
+  <li>
+    <a href="https://academic.oup.com/ej/article-abstract/135/671/2161/8087333" target="_blank">Mental Capabilities, Heterogeneous Trading Behaviour and Performance in an Experimental Asset Market</a>, with Andreas Hefti and Frédéric Schneider, <em>The Economic Journal</em>, 2025.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Hier kannst du den Abstract-Text aus dem PDF oder dem Journal einfügen. Dieser Bereich klappt erst auf, wenn man auf "Abstract" klickt.
+      </p>
+    </details>
+  </li>
 
+  <li style="margin-top: 15px;">
+    <a href="https://www.sciencedirect.com/science/article/pii/S2214635024000546" target="_blank">Experiences, Demand for Risky Investments, and Implications for Price Dynamics</a>, with Sebastian Olschewski and Jörg Rieskamp, <em>Journal of Behavioral and Experimental Finance</em>, 2025.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Hier den Abstract für das zweite Paper einfügen.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0165176524001009" target="_blank">Top–Down and Bottom–Up Information Acquisition: Applications to Financial Markets</a>, <em>Economics Letters</em>, 2024.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Hier den Abstract einfügen.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://www.tandfonline.com/doi/full/10.1080/15427560.2023.2228549" target="_blank">Degree of Personal Responsibility in Decisions and Investment Abandonment</a>, with Kevin Trutmann and Celine Rudin, <em>Journal of Behavioral Finance</em>, 2023.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Hier den Abstract einfügen.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://www.sciencedirect.com/science/article/pii/S1544612322006195" target="_blank">Take Your Time: Delayed Information and Belief Formation</a>, with Kevin Trutmann and Jörg Rieskamp, <em>Finance Research Letters</em>, 2023.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Hier den Abstract einfügen.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://link.springer.com/article/10.3758/s13423-021-02053-1" target="_blank">Cognitive Abilities Affect Decision Errors but not Risk Preferences: A Meta-Analysis</a>, with Tehilla Mechera-Ostrovsky et al., <em>Psychonomic Bulletin & Review</em>, 2022.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Hier den Abstract einfügen.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://journals.openedition.org/oeconomia/1104" target="_blank">On the Economics of Superabundant Information and Scarce Attention</a>, with Andreas Hefti, <em>Œconomia</em>, 2015.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Hier den Abstract einfügen.
+      </p>
+    </details>
+  </li>
+</ol>
 ---
 
 ### Working Papers & Under Review
