@@ -5,21 +5,26 @@ title: Steve Heinke
 
 <style>
   /* Versteckt die Sidebar links komplett (inkl. Name und GitHub-Link) */
-  header { display: none !important; }
-      
-  header, footer { display: none !important; }
-  section { width: 100% !important; max-width: 850px !important; margin: 0 auto !important; padding: 40px 20px !important; position: relative; }
+ header, footer { display: none !important; }
+  
+  /* WICHTIG: section muss relative sein, damit sticky einen Anker hat */
+  section { 
+    width: 100% !important; 
+    max-width: 850px !important; 
+    margin: 0 auto !important; 
+    padding: 40px 20px !important; 
+    position: relative; 
+  }
 
-header, footer { display: none !important; }
-  section { width: 100% !important; max-width: 850px !important; margin: 0 auto !important; padding: 40px 20px !important; position: relative; }
-
-  /* Menü-Container links positioniert */
+  /* Der Menü-Button klebt nun am oberen Rand (0px vom Top) */
   .menu-dropdown {
+    position: -webkit-sticky; /* Safari Support */
     position: sticky;
-    top: 20px;
-    float: left; /* Jetzt links */
-    z-index: 2000;
+    top: 10px; 
+    float: left;
+    z-index: 9999;
     margin-bottom: 20px;
+    margin-right: 20px;
   }
 
   .menu-button {
@@ -35,28 +40,17 @@ header, footer { display: none !important; }
     border-radius: 4px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
   }
 
-  .hamburger {
-    margin-left: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 10px;
-    width: 16px;
-  }
-  .hamburger span { height: 2px; width: 100%; background: white; display: block; }
-
-  /* Dropdown klappt nach rechts auf */
+  /* Dropdown-Inhalt */
   .menu-content {
     display: none;
     position: absolute;
-    left: 0; /* Jetzt links ausgerichtet */
+    left: 0;
     background-color: #fff;
     min-width: 220px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
-    z-index: 2001;
     border: 1px solid #eee;
     margin-top: 5px;
   }
@@ -69,12 +63,9 @@ header, footer { display: none !important; }
     font-size: 0.9em;
     border-bottom: 1px solid #f9f9f9;
   }
-  .menu-content a:last-child { border-bottom: none; }
-  .menu-content a:hover { background-color: #f1f1f1; }
 
   .menu-dropdown:hover .menu-content { display: block; }
   
-  .clearfix::after { content: ""; clear: both; display: table; }
 
   /* Versteckt den Footer (Hosted on GitHub etc.) */
   footer { display: none !important; }
@@ -133,10 +124,9 @@ header, footer { display: none !important; }
   </tr>
 </table>
 
-<div class="clearfix">
-  <div class="menu-dropdown">
-    <button class="menu-button">
-      Menu
+<div class="menu-dropdown">
+  <button class="menu-button">
+    Menu
       <div class="hamburger">
         <span></span>
         <span></span>
@@ -147,10 +137,9 @@ header, footer { display: none !important; }
       <a href="#publications">Publications</a>
       <a href="#working-papers">Working Papers</a>
       <a href="#research-in-progress-selected">Research in Progress</a>
-      <a href="#professional-services">Professional Services</a>
+      <a href="#professional-services-selected">Professional Services</a>
       <a href="#teaching-experience">Teaching Experience</a>
     </div>
-  </div>
 </div>
 
 <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
