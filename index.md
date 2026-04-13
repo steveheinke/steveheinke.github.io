@@ -96,6 +96,7 @@ title: Steve Heinke
 </style>
 
 
+<div id="about-me"></div>
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
     <td style="width:230px; vertical-align:top; border:none; padding-right:30px;">
@@ -136,6 +137,7 @@ title: Steve Heinke
     </td>
   </tr>
 </table>
+---
 
 <div class="menu-dropdown">
   <button class="menu-button">
@@ -156,8 +158,8 @@ title: Steve Heinke
     </div>
 </div>
 
----
-<div id="about-me"></div>
+
+
 <p style="font-size: 1em; padding: 10px; margin-top: 10px;">
 Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus on financial decision-making, information processing, attention, and learning.
 </p>
