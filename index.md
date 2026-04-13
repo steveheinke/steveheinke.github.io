@@ -121,7 +121,7 @@ title: Steve Heinke
   </li>
 
   <li style="margin-top: 15px;">
-    <a href="https://link.springer.com/article/10.3758/s13423-021-02053-1" target="_blank">Cognitive Abilities Affect Decision Errors but not Risk Preferences: A Meta-Analysis</a>, with Tehilla Mechera-Ostrovsky et al., <em>Psychonomic Bulletin & Review</em>, 2022.
+    <a href="https://link.springer.com/article/10.3758/s13423-021-02053-1" target="_blank">Cognitive Abilities Affect Decision Errors but not Risk Preferences: A Meta-Analysis</a>, with T. Mechera-Ostrovsky, S. Andraszewicz, and J. Rieskamp, <em>Psychonomic Bulletin & Review</em>, 2022.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
@@ -330,11 +330,77 @@ Past research indicates deviations from normative belief updating. Based on cogn
     </details>
   </li>
 </ol>
+
 ---
+### Research in Progress (selected)
 
-### Professional Services
-* **Editorial Board**: Journal of Behavioral Decision Making (since 2023)
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    <a href="https://financialdecisions.psychologie.unibas.ch/en/" target="_blank">The Foundations of Successful Financial Decision Making</a>: Multi-arm interdisciplinary program combining brokerage data, experimental tasks, and neuroimaging.
+  </li>
 
+  <li style="margin-top: 15px;">
+    Learn Your Limits, with Doron Cohen and Rudy de Winne. 
+  </li>
+</ul>
+
+---
+### Professional Services (selected)
+<ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
+  <li>
+    <strong>Editorial Board:</strong> <em>Journal of Behavioral Decision Making</em> (2023–present)
+  </li>
+  
+  <li style="margin-top: 15px;">
+    <strong>Ad-hoc Reviewer:</strong> 
+    <span style="font-size: 0.95em; color: #444;">
+      Finance Research Letters, Information Sciences, Journal of Behavioral and Experimental Finance, 
+      Journal of Behavioral Decision Making, Journal of Economic Behavior and Organization, 
+      Journal of Economic Psychology, Management Science, Psychological Review, SAGE Open, 
+      Spanish Journal of Accounting and Finance.
+    </span>
+  </li>
+</ul>
+
+---
+### Teaching Experience
+<ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
+  <li>
+    <strong>Lectures:</strong>
+    <ul style="list-style-type: disc; padding-left: 20px; font-size: 0.95em; color: #444;">
+      <li>Economic Psychology (Bachelor, Fall 2024, 2025)</li>
+      <li>Risk in Modern Life (Bachelor, Spring 2022–2026)</li>
+    </ul>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <strong>Seminars:</strong>
+    <ul style="list-style-type: disc; padding-left: 20px; font-size: 0.95em; color: #444;">
+      <li>Behavioral and Experimental Finance (Master, 2017–2023)</li>
+      <li>Empirical Projectseminar (Bachelor, 2017, 2018)</li>
+      <li>Economic History (Bachelor, Spring 2015)</li>
+      <li>Contract Theory and Information Economics (Master, 2011, 2012)</li>
+      <li>Writing & Presentation Skills for Economists (Bachelor, 2007, 2008)</li>
+    </ul>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <strong>Tutorials:</strong>
+    <ul style="list-style-type: disc; padding-left: 20px; font-size: 0.95em; color: #444;">
+      <li>Microeconomics I (Bachelor, 2014, 2015)</li>
+      <li>Contract and Information Economics (Bachelor, 2011–2013)</li>
+      <li>Macroeconomics (Bachelor, 2009, 2010)</li>
+    </ul>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <strong>Supervision:</strong> 
+    <span style="font-size: 0.95em; color: #444;">Master Theses (8x), Bachelor Theses (34x)</span>
+  </li>
+</ul>
+
+
+---
 ### Academic Appointments
 * **2024–** Senior Researcher, University of Fribourg
 * **2017–2024** Post-Doc, University of Basel
