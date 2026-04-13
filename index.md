@@ -10,11 +10,14 @@ title: Steve Heinke
   header, footer { display: none !important; }
   section { width: 100% !important; max-width: 850px !important; margin: 0 auto !important; padding: 40px 20px !important; position: relative; }
 
-  /* Menü-Container rechts positioniert */
+header, footer { display: none !important; }
+  section { width: 100% !important; max-width: 850px !important; margin: 0 auto !important; padding: 40px 20px !important; position: relative; }
+
+  /* Menü-Container links positioniert */
   .menu-dropdown {
     position: sticky;
     top: 20px;
-    float: right;
+    float: left; /* Jetzt links */
     z-index: 2000;
     margin-bottom: 20px;
   }
@@ -32,7 +35,7 @@ title: Steve Heinke
     border-radius: 4px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
 
   .hamburger {
@@ -45,11 +48,11 @@ title: Steve Heinke
   }
   .hamburger span { height: 2px; width: 100%; background: white; display: block; }
 
-  /* Dropdown klappt nach links auf, damit es im Bild bleibt */
+  /* Dropdown klappt nach rechts auf */
   .menu-content {
     display: none;
     position: absolute;
-    right: 0;
+    left: 0; /* Jetzt links ausgerichtet */
     background-color: #fff;
     min-width: 220px;
     box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
@@ -71,7 +74,6 @@ title: Steve Heinke
 
   .menu-dropdown:hover .menu-content { display: block; }
   
-  /* Hilfsklasse zum Beenden des Floats */
   .clearfix::after { content: ""; clear: both; display: table; }
 
   /* Versteckt den Footer (Hosted on GitHub etc.) */
