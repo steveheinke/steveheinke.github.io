@@ -149,7 +149,8 @@ title: Steve Heinke
     </td>
   </tr>
 </table>
----
+
+<hr style="margin: 30px 0; border: 0; border-top: 1px solid #eee; clear: both;">
 
 <div class="menu-dropdown">
   <button class="menu-button">
@@ -176,7 +177,8 @@ title: Steve Heinke
   processing, attention, and learning.
 </p>
 
----
+<hr style="margin: 30px 0; border: 0; border-top: 1px solid #eee; clear: both;">
+
 
 ### Publications
 <ol>
