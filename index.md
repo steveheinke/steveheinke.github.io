@@ -169,9 +169,10 @@ title: Steve Heinke
 
 
 <p style="font-size:1.15em; line-height:1.4; margin: 0;">
-  As an experimental economist, I integrate the insights of cognitive psychology into economic decision-making under risk, focusing primarily on applications in finance. I study the cognitive drivers—chiefly information processing limits—that act as bottlenecks when people face complex financial decisions.
+    As an experimental economist, I integrate the insights of cognitive psychology into economic decision-making under risk, focusing primarily on applications in finance.
+    I study the cognitive drivers—mostly information processing—of people face complex financial decisions.
   <br><br>
-  By examining how we deploy our scarce attentional resources and how we update our beliefs, my work aims to provide a clearer, more unifying framework for the behavioral patterns we observe in the real world, ultimately helping to improve human decision-making.
+  By examining how humans deploy their scarce attentional resources and how they update their beliefs, my work aims to provide a clearer, more unifying framework for the behavioral patterns we observe in the real world, ultimately helping to improve human decision-making.
 </p>
 
 <hr style="margin: 30px 0; border: 0; border-top: 1px solid #eee; clear: both;">
