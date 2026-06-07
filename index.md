@@ -123,7 +123,9 @@ title: Steve Heinke
       </p>
        
       <p style="font-size:0.95em; line-height:1.6; color:#444;">
-        <strong>Email:</strong> <a href="mailto:steve.heinke@unifr.ch" target="_blank">steve.heinke@unifr.ch</a><br>
+        <strong>Email:</strong> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#101;&#118;&#101;&#46;&#104;&#101;&#105;&#110;&#107;&#101;&#64;&#117;&#110;&#105;&#102;&#114;&#46;&#99;&#104;">
+  &#115;&#116;&#101;&#118;&#101;&#46;&#104;&#101;&#105;&#110;&#107;&#101;&#32;&#91;&#97;&#116;&#93;&#32;&#117;&#110;&#105;&#102;&#114;&#46;&#99;&#104;
+</a><br>
         <strong>Links:</strong> <a href="https://orcid.org/0000-0002-9000-5897" target="_blank">ORCID</a> | <a href="https://scholar.google.com/citations?user=odLtrdkAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/steve-heinke-7b9209153/" target="_blank">LinkedIN</a> |<a href="https://osf.io/knbse/" target="_blank">OSF</a>  |  <a href="https://github.com/steveheinke" target="_blank">GitHub</a>
       </p>
     <p style="margin-top: 15px;">
