@@ -144,9 +144,6 @@ title: Steve Heinke
     </td>
   </tr>
 </table>
-
-<hr style="margin: 30px 0; border: 0; border-top: 1px solid #eee; clear: both;">
-
 <div class="menu-dropdown">
   <button class="menu-button">
     Menu
@@ -165,11 +162,14 @@ title: Steve Heinke
       <a href="#teaching-experience">Teaching Experience</a>
     </div>
 </div>
+<hr style="margin: 30px 0; border: 0; border-top: 1px solid #eee; clear: both;">
+
+
 
 <p style="font-size:1.15em; line-height:1.4; margin: 0;">
-  Experimental economist working on the cognitive and behavioral foundations of 
-  decision-making, with a focus on financial decision-making, information 
-  processing, attention, and learning.
+  As an experimental economist, I integrate the insights of cognitive psychology into economic decision-making under risk, focusing primarily on applications in finance. I study the cognitive drivers—chiefly information processing limits—that act as bottlenecks when people face complex financial decisions.
+  <br><br>
+  By examining how we deploy our scarce attentional resources and how we update our beliefs, my work aims to provide a clearer, more unifying framework for the behavioral patterns we observe in the real world, ultimately helping to improve human decision-making.
 </p>
 
 <hr style="margin: 30px 0; border: 0; border-top: 1px solid #eee; clear: both;">
@@ -177,6 +177,30 @@ title: Steve Heinke
 
 ### Publications
 <ol>
+    <li style="margin-top: 15px;">
+    <a href="https://iris.unitn.it/handle/11572/448890" target="_blank">The Robustness of Mental Accounting Around the World</a>, with E. Rubaltelli (First Author), G. Priolo (PI), et al., 2026. <em>Accepted at Journal of Consumer Research</em>.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+              <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+                First introduced four decades ago, the influential concept of mental accounting—how 
+        people mentally organize, evaluate, and track financial activities—posits that consumers 
+        often defy traditional economic rationality, treating money as non-fungible across discrete 
+        mental accounts. In this research, we present the first large-scale test of the replicability and 
+        generalizability of mental accounting effects, using a sample of 5,589 participants from 21 
+        countries. Our results demonstrate that mental accounting effects are replicable, robust, and 
+        generalizable. Hierarchical Bayesian meta-analyses revealed a 100% replication rate for all 
+        tested scenarios, while unpooled analyses showed a 90.5% replication rate (133/147 effects). 
+        Further analysis found that effects observed in higher-income countries may be weaker in 
+        lower-income countries. Multidimensional scaling suggested that mental accounting effects 
+        vary along three interpretable dimensions that reflect social context (individual vs interactive 
+        decisions), decision perspective (deciding for self vs other), and role in price determination 
+        (setting vs evaluating prices). Across a diverse population and controlling for multiple 
+        factors, we show that consumers make decisions based on mentally-formed accounts that 
+        consistently diverge from their objective financial value
+      </p>
+    </details>
+  </li>
+
   <li>
     <a href="https://academic.oup.com/ej/article-abstract/135/671/2161/8087333" target="_blank">Mental Capabilities, Heterogeneous Trading Behaviour and Performance in an Experimental Asset Market</a>, with Andreas Hefti and Frédéric Schneider, <em>The Economic Journal</em>, 2025.
     <details style="margin-top: 5px; cursor: pointer;">
@@ -247,6 +271,7 @@ When making risky decisions, people should evaluate the consequences and the cha
       </p>
     </details>
   </li>
+
 </ol>
 ---
 
@@ -254,7 +279,7 @@ When making risky decisions, people should evaluate the consequences and the cha
 <ol>
   <li>
     <a href="https://www.dropbox.com/scl/fi/p9y26uwnpzkq8licl67mc/ManScie_main.pdf?rlkey=oufmmfq3g4j2kmlu5xdiulqj5&dl=0" target="_blank">Avoiding Bad Risks: How Risk Aversion Is Beneficial for Financial Decision-Making</a>, with S. Maier, A. Ziegler, A. Bagaïni, I. Kooij, S. Nebe, 
-N. Sidorenko, K. Trutmann, T. Hens, R. Mata, P. N. Tobler, and J.Rieskamp, 2026. <em>Under review at Management Science</em>.
+N. Sidorenko, K. Trutmann, T. Hens, R. Mata, P. N. Tobler, and J.Rieskamp, 2026. <em></em>
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
@@ -309,29 +334,7 @@ neuroscience of personality, psychopathology, and general well-being.
     </details>
   </li>
 
-  <li style="margin-top: 15px;">
-    <a href="https://iris.unitn.it/handle/11572/448890" target="_blank">The Robustness of Mental Accounting Around the World</a>, with E. Rubaltelli (First Author), G. Priolo (PI), et al., 2026. <em>Second revision invited at Journal of Consumer Research</em>.
-    <details style="margin-top: 5px; cursor: pointer;">
-      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
-      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        First introduced four decades ago, the influential concept of mental accounting—how 
-people mentally organize, evaluate, and track financial activities—posits that consumers 
-often defy traditional economic rationality, treating money as non-fungible across discrete 
-mental accounts. In this research, we present the first large-scale test of the replicability and 
-generalizability of mental accounting effects, using a sample of 5,589 participants from 21 
-countries. Our results demonstrate that mental accounting effects are replicable, robust, and 
-generalizable. Hierarchical Bayesian meta-analyses revealed a 100% replication rate for all 
-tested scenarios, while unpooled analyses showed a 90.5% replication rate (133/147 effects). 
-Further analysis found that effects observed in higher-income countries may be weaker in 
-lower-income countries. Multidimensional scaling suggested that mental accounting effects 
-vary along three interpretable dimensions that reflect social context (individual vs interactive 
-decisions), decision perspective (deciding for self vs other), and role in price determination 
-(setting vs evaluating prices). Across a diverse population and controlling for multiple 
-factors, we show that consumers make decisions based on mentally-formed accounts that 
-consistently diverge from their objective financial value
-      </p>
-    </details>
-  </li>
+  
 
   <li style="margin-top: 15px;">
     <a href="https://www.dropbox.com/scl/fi/z7xy2toa6455290nqqnr5/Marti_Olschewski_Trutmann_Rieskamp_Heinke_2026_whats-important-under-the-hood.pdf?rlkey=c7g4tvum4x1hmt9i81ywunsid&dl=0" target="_blank">What’s Important Under the Hood? Decomposing Financial Decisions Through Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
@@ -362,7 +365,7 @@ decisions, thereby informing theory development, experimental design, and policy
   </li>
 
   <li style="margin-top: 15px;">
-    <a href="https://www.dropbox.com/scl/fi/p3fi1nj35wwdsr722hg4l/Energy_Mix_Choice_under_Cognitive_Constraints_main.pdf?rlkey=z2r6zv3t0s2ri14t82d7rqi68&dl=0" target="_blank">Too Much Choice? A Lab-in-the-Field Experiment on Choice Overload, Cognitive Constraints, and Consumer Welfare in Electricity Contracts Decisions</a>, with S. Olschewski and C. Roux, 2026. <em>Under review at JEBO</em>.
+    <a href="https://www.dropbox.com/scl/fi/p3fi1nj35wwdsr722hg4l/Energy_Mix_Choice_under_Cognitive_Constraints_main.pdf?rlkey=z2r6zv3t0s2ri14t82d7rqi68&dl=0" target="_blank">Too Much Choice? A Lab-in-the-Field Experiment on Choice Overload, Cognitive Constraints, and Consumer Welfare in Electricity Contracts Decisions</a>, with S. Olschewski and C. Roux, 2026. <em></em>
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
