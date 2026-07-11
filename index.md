@@ -73,6 +73,31 @@ title: Steve Heinke
   .menu-content a:hover { background-color: #f1f1f1; }
 
   .menu-dropdown:hover .menu-content { display: block; }
+  .menu-dropdown.open .menu-content { display: block; }
+  .menu-button:focus-visible { outline: 2px solid #fff; outline-offset: -4px; }
+
+  /* Mobile layout */
+  @media (max-width: 600px) {
+    #about-me table, #about-me tbody, #about-me tr, #about-me td {
+      display: block;
+      width: 100% !important;
+    }
+    #about-me td:first-child {
+      text-align: center;
+      padding-right: 0 !important;
+      margin-bottom: 15px;
+    }
+    #about-me img {
+      max-width: 150px !important;
+      margin: 0 auto;
+    }
+    .menu-dropdown {
+      float: none !important;
+      display: flex;
+      justify-content: center;
+      margin: 0 0 15px 0 !important;
+    }
+  }
 
   /* Back to Top Button */
   .back-to-top {
@@ -146,8 +171,8 @@ title: Steve Heinke
     </td>
   </tr>
 </table>
-<div class="menu-dropdown">
-  <button class="menu-button">
+<div class="menu-dropdown" id="menu-dropdown">
+  <button class="menu-button" id="menu-button" aria-haspopup="true" aria-expanded="false" aria-controls="menu-content">
     Menu
       <div class="hamburger">
         <span></span>
@@ -155,15 +180,44 @@ title: Steve Heinke
         <span></span>
       </div>
     </button>
-    <div class="menu-content">
-      <a href="#about-me">About me</a>
-      <a href="#publications">Publications</a>
-      <a href="#working-papers">Working Papers</a>
-      <a href="#research-in-progress-selected">Research in Progress</a>
-      <a href="#professional-services-selected">Professional Services</a>
-      <a href="#teaching-experience">Teaching Experience</a>
+    <div class="menu-content" id="menu-content" role="menu">
+      <a href="#about-me" role="menuitem">About me</a>
+      <a href="#publications" role="menuitem">Publications</a>
+      <a href="#working-papers" role="menuitem">Working Papers</a>
+      <a href="#research-in-progress-selected" role="menuitem">Research in Progress</a>
+      <a href="#professional-services-selected" role="menuitem">Professional Services</a>
+      <a href="#teaching-experience" role="menuitem">Teaching Experience</a>
     </div>
 </div>
+<script>
+  (function () {
+    var dropdown = document.getElementById('menu-dropdown');
+    var button = document.getElementById('menu-button');
+
+    function closeMenu() {
+      dropdown.classList.remove('open');
+      button.setAttribute('aria-expanded', 'false');
+    }
+
+    button.addEventListener('click', function (e) {
+      e.stopPropagation();
+      var isOpen = dropdown.classList.toggle('open');
+      button.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!dropdown.contains(e.target)) closeMenu();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeMenu();
+    });
+
+    dropdown.querySelectorAll('.menu-content a').forEach(function (link) {
+      link.addEventListener('click', closeMenu);
+    });
+  })();
+</script>
 <hr style="margin: 30px 0; border: 0; border-top: 1px solid #eee; clear: both;">
 
 
@@ -394,7 +448,7 @@ is more effective in improving consumer welfare.
   </li>
 
   <li style="margin-top: 15px;">
-    <a href="https://tinyurl.com/2v4sk3vz" target="_blank">How to Improve the Measurement Quality of Behavioral Tasks Eliciting Risk Preferences?</a>, with O. Schürmann, S. Andraszewicz, and J. Rieskamp, 2026. <em>Under review at Scientific Reports</em>.
+    <a href="https://tinyurl.com/2v4sk3vz" target="_blank">How to Improve the Measurement Quality of Behavioral Tasks Eliciting Risk Preferences?</a>, with O. Schürmann, S. Andraszewicz, and J. Rieskamp, 2026. <em>R&amp;R at Scientific Reports</em>.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">

@@ -1,0 +1,179 @@
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+
+\hypersetup{colorlinks=true, urlcolor=black, linkcolor=black}
+
+% Section headings: bold, all caps text, full-width rule underneath
+\titleformat{\section}
+  {\normalfont\bfseries}{}{0em}{}
+  [\vspace{2pt}\titlerule\vspace{4pt}]
+\titlespacing{\section}{0pt}{14pt}{2pt}
+
+\setlist[itemize]{leftmargin=1.4em, itemsep=4pt, topsep=2pt}
+\setlist[enumerate]{leftmargin=1.6em, itemsep=8pt, topsep=2pt}
+
+% Repeating header with contact / address block, centered page number in footer
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\headheight}{54pt}
+\fancyhead[L]{%
+  \small
+  \textbf{Email:} steve.heinke@unifr.ch\\
+  \textbf{ORCID:} 0000-0002-9000-5897\\
+  steveheinke.github.io
+}
+\fancyhead[R]{%
+  \small
+  University of Fribourg\\
+  Boulevard de P\'{e}rolles 90\\
+  1700 Fribourg, Switzerland
+}
+\fancyfoot[C]{\thepage}
+
+% Two-column "date | role | institution" entry, institution/department stacked on two lines
+\newcommand{\apptentry}[4]{%
+  #1 & #2 & \shortstack[l]{#3\\#4} \\[6pt]
+}
+
+\begin{document}
+\thispagestyle{fancy}
+
+\begin{center}
+  {\Large \scshape Steve Heinke}\\[2pt]
+  June 7, 2026
+\end{center}
+
+\vspace{4pt}
+\hrule
+\vspace{8pt}
+
+\begin{center}
+\parbox{0.85\textwidth}{\centering
+Experimental economist working on the cognitive and behavioral foundations of decision-making, with a focus
+on financial decision-making, information processing, attention, and learning.
+}
+\end{center}
+
+\section*{ACADEMIC APPOINTMENTS}
+\begin{tabular}{@{}p{2.6cm}p{5cm}p{6cm}@{}}
+\apptentry{02/2024--}{Senior Researcher}{Mobiliar Center for Resilience}{University of Fribourg}
+\apptentry{02/2017--01/2024}{Post-Doctoral Researcher}{Center of Economic Psychology}{University of Basel}
+\apptentry{02/2011--01/2017}{Research \& Teaching Assistant}{Department of Economics}{University of Zurich}
+\end{tabular}
+
+\section*{EDUCATION}
+\begin{tabular}{@{}p{2.6cm}p{7.5cm}p{4cm}@{}}
+2011--2016 & PhD in Economics & University of Zurich \\[4pt]
+2008--2011 & Master \& Graduate Studies in Economics & University of Munich \\[4pt]
+2005--2008 & BA Philosophy \& Economics & University of Bayreuth \\
+\end{tabular}
+
+\section*{PUBLICATIONS}
+\begin{enumerate}
+\item \textbf{The Robustness of Mental Accounting Around the World} with Enrico Rubaltelli (PI), Giulia
+Priolo (first author), and research teams from 21 countries. April 2026. Accepted at \textit{Journal of Consumer
+Research}.
+
+\item \textbf{Mental Capabilities, Heterogeneous Trading Behaviour and Performance in an Experimental
+Asset Market}, with Andreas Hefti and Fr\'{e}d\'{e}ric Schneider, \textit{The Economic Journal}, 2025.
+
+\item \textbf{Experiences, Demand for Risky Investments, and Implications for Price Dynamics}, with
+Sebastian Olschewski and J\"{o}rg Rieskamp, \textit{Journal of Behavioral and Experimental Finance}, 2025.
+
+\item \textbf{Top--Down and Bottom--Up Information Acquisition: Applications to Financial Markets},
+\textit{Economics Letters}, 2024.
+
+\item \textbf{Degree of Personal Responsibility in Decisions and Investment Abandonment}, with Kevin
+Trutmann and Celine Rudin, \textit{Journal of Behavioral Finance}, 2023.
+
+\item \textbf{Take Your Time: Delayed Information and Belief Formation}, with Kevin Trutmann and J\"{o}rg
+Rieskamp, \textit{Finance Research Letters}, 2023.
+
+\item \textbf{Cognitive Abilities Affect Decision Errors but not Risk Preferences: A Meta-Analysis}, with
+Tehilla Mechera-Ostrovsky et al., \textit{Psychonomic Bulletin \& Review}, 2022.
+
+\item \textbf{On the Economics of Superabundant Information and Scarce Attention}, with Andreas Hefti,
+{\OE}conomia, 2015.
+\end{enumerate}
+
+\section*{WORKING PAPERS (selected)}
+\begin{enumerate}
+\item \textbf{Avoiding Bad Risks: How Risk Aversion Is Beneficial for Financial Decision-Making} with
+Silvia Maier, Alexander Ziegler, Alexandra Baga\"{\i}ni, Isabella Kooij, Stephan Nebe, Nikita Sidorenko, Kevin
+Trutmann, Thorsten Hens, Rui Mata, Philippe N. Tobler, and J\"{o}rg Rieskamp. April 2026. Main paper of
+the interdisciplinary project ``The Foundations of Successful Financial Decision Making''. Under review
+at \textit{Management Science}. Working paper available upon request.
+
+\item \textbf{The Elusive Neural Signature of Emotion Regulation Capabilities: Evidence from a Large-Scale Consortium}
+with Carmen Morawetz (PI), Maurizio Sicorello (first author), and an international consortium analyzing
+40 fMRI datasets. April 2026. First revision invited at \textit{Nature}.
+
+\item \textbf{What's Important Under the Hood? Decomposing Financial Decisions Through Structural
+Modeling} with Melvin Marti, Sebastian Olschewski, Kevin Trutmann, and J\"{o}rg Rieskamp. April 2026.
+Working paper in preparation for submission.
+
+\item \textbf{Too Much Choice? A Lab-in-the-Field Experiment on Choice Overload, Cognitive Constraints, and Consumer Welfare in Electricity Contracts Decisions} with Sebastian Olschewski
+and Catherine Roux. March 2026. Under review at the \textit{Journal of Economic Behavior and Organization}.
+
+\item \textbf{How to Improve the Measurement Quality of Behavioral Tasks Eliciting Risk Preferences?}
+with O. Sch\"{u}rmann, S. Andraszewicz, and J. Rieskamp. 2026. R\&R at \textit{Scientific Reports}. % TODO: confirm full first names for Sch\"{u}rmann and Andraszewicz to match style of other CV entries
+\end{enumerate}
+
+\section*{RESEARCH IN PROGRESS (selected)}
+\begin{itemize}
+\item \textbf{The Foundations of Successful Financial Decision Making}: multi-arm interdisciplinary program
+combining brokerage data, experimental tasks, and neuroimaging.
+
+\item \textbf{Learn Your Limits}.\\
+with Doron Cohen and Rudy de Winne.\\
+Manuscript in advanced preparation; analysis completed.
+\end{itemize}
+
+\section*{EDITORIAL, REFEREEING \& PROFESSIONAL SERVICE}
+\begin{tabular}{@{}p{3cm}p{11.5cm}@{}}
+Editorial Board & Journal of Behavioral Decision Making (since 2023) \\[6pt]
+Refereeing & Management Science; Psychological Review; Journal of Economic Behavior and
+Organization; Journal of Economic Psychology; Information Sicences; % TODO: typo in source PDF for "Sciences"
+Journal of Behavioral and Experimental Finance; Finance Research Letters \\[6pt]
+University Service & Organizer, Public Lecture Series on Resilience, Reseach Colloquium (Fribourg) \\ % TODO: typo in source PDF for "Research"
+ & Organizer, Zurich Workshop on Economics (Zurich) \\[6pt]
+Committees & Senate Research Committee, University of Basel (2020--2024) \\
+ & Hiring Comittee, University of Zurich (2014) \\ % TODO: typo in source PDF for "Committee"
+\end{tabular}
+
+\section*{INVITED SEMINARS}
+Columbia Business School; ETH Zurich; University of Warwick; University of Cambridge; University of Zurich;
+Maastricht University; Lund University.
+
+\section*{CONFERENCES (selected)}
+ASSA; Experimental Finance Conferences; ESA Global Meetings; Subjective Probability, Utility and Decision
+Making (SPUDM); Foundations of Utility and Risk; Household Finance Workshops; Verein f\"{u}r Socialpolitik;
+Behavioral Measurment Conference; % TODO: typo in source PDF for "Measurement"
+Generalizability and Replicability of Economic Experiments.
+
+\section*{TEACHING EXPERIENCE (selected)}
+\begin{tabular}{@{}p{3cm}p{11.5cm}@{}}
+Lectures & Economic Psychology (since Spring 2024); Risk in Modern Life (since Fall % TODO: sentence is cut off in the source PDF -- confirm end year/season, cf. index.md which says "Spring 2022--2026"
+\\[6pt]
+Seminars & Behavioral and Experimental Finance (Spring 2017--23); Empirical Project Seminar (2017, 2018); Economic History (2015); Contract Theory and Information
+Economics (2011, 2012) \\[6pt]
+Supervision & Master theses (8); Bachelor theses (34) \\
+\end{tabular}
+
+\section*{REFERENCES}
+\begin{tabular}{@{}p{7.5cm}p{7.5cm}@{}}
+\textbf{Prof. Dr. J\"{o}rg Rieskamp} & \textbf{Prof. Dr. Tobin Hanspal} \\
+University of Basel & WU Vienna \\
+joerg.rieskamp@unibas.ch & tobin.hanspal@wu.ac.at \\
+\end{tabular}
+
+\end{document}
