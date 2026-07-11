@@ -233,7 +233,7 @@ title: Steve Heinke
 
 
 ### Publications
-<ol reversed>
+<ol reversed start="8">
     <li style="margin-top: 15px;">
     <a href="https://iris.unitn.it/handle/11572/448890" target="_blank">The Robustness of Mental Accounting Around the World</a>, with E. Rubaltelli (First Author), G. Priolo (PI), et al., 2026. <em>Accepted at Journal of Consumer Research</em>.
     <details style="margin-top: 5px; cursor: pointer;">
