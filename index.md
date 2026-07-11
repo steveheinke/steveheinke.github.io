@@ -233,7 +233,7 @@ title: Steve Heinke
 
 
 ### Publications
-<ol>
+<ol reversed>
     <li style="margin-top: 15px;">
     <a href="https://iris.unitn.it/handle/11572/448890" target="_blank">The Robustness of Mental Accounting Around the World</a>, with E. Rubaltelli (First Author), G. Priolo (PI), et al., 2026. <em>Accepted at Journal of Consumer Research</em>.
     <details style="margin-top: 5px; cursor: pointer;">
@@ -422,7 +422,7 @@ decisions, thereby informing theory development, experimental design, and policy
   </li>
 
   <li style="margin-top: 15px;">
-    <a href="https://www.dropbox.com/scl/fi/p3fi1nj35wwdsr722hg4l/Energy_Mix_Choice_under_Cognitive_Constraints_main.pdf?rlkey=z2r6zv3t0s2ri14t82d7rqi68&dl=0" target="_blank">Too Much Choice? A Lab-in-the-Field Experiment on Choice Overload, Cognitive Constraints, and Consumer Welfare in Electricity Contracts Decisions</a>, with S. Olschewski and C. Roux, 2026. <em></em>
+    <a href="https://www.dropbox.com/scl/fi/p3fi1nj35wwdsr722hg4l/Energy_Mix_Choice_under_Cognitive_Constraints_main.pdf?rlkey=z2r6zv3t0s2ri14t82d7rqi68&dl=0" target="_blank">Too Much Choice? A Lab-in-the-Field Experiment on Choice Overload, Cognitive Constraints, and Consumer Welfare in Electricity Contracts Decisions</a>, with S. Olschewski and C. Roux, 2026. <em>Under review at Journal of Economic Psychology</em>
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
