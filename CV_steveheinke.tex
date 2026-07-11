@@ -42,7 +42,7 @@
 
 % Two-column "date | role | institution" entry, institution/department stacked on two lines
 \newcommand{\apptentry}[4]{%
-  #1 & #2 & \shortstack[l]{#3\\#4} \\[3pt]
+  #1 & #2 & \parbox[t]{\linewidth}{#3\newline#4} \\[3pt]
 }
 
 \begin{document}
