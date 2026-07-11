@@ -333,7 +333,7 @@ When making risky decisions, people should evaluate the consequences and the cha
 ---
 
 ### Working Papers 
-<ol>
+<ul style="list-style-type: disc; padding-left: 20px;">
   <li>
     <a href="https://www.dropbox.com/scl/fi/p9y26uwnpzkq8licl67mc/ManScie_main.pdf?rlkey=oufmmfq3g4j2kmlu5xdiulqj5&dl=0" target="_blank">Avoiding Bad Risks: How Risk Aversion Is Beneficial for Financial Decision-Making</a>, with S. Maier, A. Ziegler, A. Bagaïni, I. Kooij, S. Nebe, 
 N. Sidorenko, K. Trutmann, T. Hens, R. Mata, P. N. Tobler, and J.Rieskamp, 2026. <em></em>
@@ -496,7 +496,7 @@ Past research indicates deviations from normative belief updating. Based on cogn
       </p>
     </details>
   </li>
-</ol>
+</ul>
 
 ---
 ### Research in Progress (selected)
