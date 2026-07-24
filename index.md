@@ -235,7 +235,7 @@ title: Steve Heinke
 ### Publications
 <ol reversed start="8">
     <li style="margin-top: 15px;">
-    <a href="https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucag022/8732294" target="_blank">The Robustness of Mental Accounting Across 21 Countries</a>, with G. Priolo (First Author), E. Rubaltelli (PI), et al., 2026. <em>Accepted at Journal of Consumer Research</em>.
+    <a href="https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucag022/8732294" target="_blank">The Robustness of Mental Accounting Across 21 Countries</a>, with G. Priolo (First Author), E. Rubaltelli (PI), et al., <em>Journal of Consumer Research</em>, 2026.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
               <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
