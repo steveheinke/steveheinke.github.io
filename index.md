@@ -394,7 +394,7 @@ neuroscience of personality, psychopathology, and general well-being.
   
 
   <li style="margin-top: 15px;">
-    <a href="https://www.dropbox.com/scl/fi/z7xy2toa6455290nqqnr5/Marti_Olschewski_Trutmann_Rieskamp_Heinke_2026_whats-important-under-the-hood.pdf?rlkey=c7g4tvum4x1hmt9i81ywunsid&dl=0" target="_blank">What’s Important Under the Hood? Decomposing Financial Decisions Through Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Financial Decisions Through Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
