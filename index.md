@@ -394,29 +394,11 @@ neuroscience of personality, psychopathology, and general well-being.
   
 
   <li style="margin-top: 15px;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Financial Decisions Through Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Sequential Risk Taking with Feedback through Behavioral Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026. <em>Under review at Journal of Finance</em>.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Why do individuals systematically depart from rational choice? The success of behavioral economics
-led to a plethora of theories answering this question building on overlapping mechansims incorporating
-psychological and cognitive sciences insights. Progress toward a more parsimonious and generalizable
-unified theoretical framework requires identifying which mechanisms matter most in explaining decisions.
-We develop a systematic framework that isolates and ranks the predictive importance of core behavioral
-mechanisms in sequential risk-taking with feedback – one of the intensivly researched decisions in behavi-
-oral economics. Based on an expert survey and a systematic literature review, we identify and compare as
-mechanisms: risk preferences, loss aversion, probability weighting, behavioral inertia, asymmetric updat-
-ing, Bayesian updating, and reinforcement learning. We estimate all theoretically feasible combinations
-of these mechanisms and compare their explanatory power across three datasets of repeated financial
-decisions with immediate feedback. Our approach allows us to quantify each mechanism’s marginal
-contribution. All seven mechanisms improve explanatory power relative to Bayesian expected-value max-
-imization. Behavioral inertia yields the largest gains through strong choice persistence and helps explain
-both aggregate and individual behavior. Asymmetric updating adds predictive power when feedback is
-informative, revealing systematic overreaction to gains and underreaction to losses. Probability weighting
-contributes meaningfully when identifiable. Linking individual parameters to performance further shows
-that higher risk tolerance and learning rates closer to Bayesian updating predict superior decision quality.
-Our approach offers a generalizable, data-driven framework for identifying the mechanisms underlying
-decisions, thereby informing theory development, experimental design, and policy interventions.
+        Understanding sequential risk-taking with feedback, and how people deviate from rational benchmarks, has led to many behavioral finance models, without converging on a unifying theory. We propose to first shift the analysis from models to their constituent parts, that is, mechanisms. Second, we systematically compare the most common mechanisms against each other. We find that they all improve predictive accuracy relative to a Bayesian benchmark, but inertia and asymmetric updating explain most of the variation, while risk or loss aversion contributes little once learning is modeled. Better trading performance is associated with greater risk tolerance and near-Bayesian learning rates.
       </p>
     </details>
   </li>
