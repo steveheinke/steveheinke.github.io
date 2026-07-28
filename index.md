@@ -394,7 +394,7 @@ neuroscience of personality, psychopathology, and general well-being.
   
 
   <li style="margin-top: 15px;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Sequential Risk Taking with Feedback through Behavioral Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026. <em>Under review at Journal of Finance</em>.
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Sequential Risk Taking with Feedback through Behavioral Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
