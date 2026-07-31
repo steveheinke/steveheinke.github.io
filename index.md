@@ -366,7 +366,7 @@ support tools.
   </li>
 
   <li style="margin-top: 15px;">
-    <a href="https://www.biorxiv.org/content/10.1101/2025.08.18.670843v1.full.pdf" target="_blank">The Elusive Neural Signature of Emotion Regulation Capabilities: Evidence from a Large-Scale Consortium</a>, with C. Morawetz (First Author), M. Sicorello (PI), et al., 2026. <em>First revision invited at Nature</em>.
+    <a href="https://www.biorxiv.org/content/10.1101/2025.08.18.670843v1.full.pdf" target="_blank">The Elusive Neural Signature of Emotion Regulation Capabilities: Evidence from a Large-Scale Consortium</a>, with C. Morawetz (First Author), M. Sicorello (PI), et al., 2026. <em>First revision submitted to Nature</em>.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
