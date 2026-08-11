@@ -233,8 +233,33 @@ title: Steve Heinke
 
 
 ### Publications
-<ol reversed start="8">
+<ol reversed start="9">
     <li style="margin-top: 15px;">
+    <a href="https://www.biorxiv.org/content/10.1101/2025.08.18.670843v1.full.pdf" target="_blank">The Elusive Neural Signature of Emotion Regulation Capabilities: Evidence from a Large-Scale Consortium</a>, with C. Morawetz (PI), M. Sicorello (First Author), et al., 2026. <em>Accepted at Nature</em>.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+              <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Cognitive reappraisal is a fundamental emotion regulation strategy for mental and
+physical well-being, but how its neural mechanisms relate to individual differences remains
+poorly understood. In a consortium effort analyzing 40 fMRI datasets (N=2,175), we examined
+the relationship between neural activation during reappraisal tasks and three core individual
+difference indices of reappraisal capabilities: (1) trait questionnaires, (2) task-based affective
+ratings, and (3) amygdala down-regulation. Strikingly, there was no shared overlap across these
+three common indices. Only a very weak correlation emerged between amygdala downregulation and task-based affective ratings. Whole-brain analyses revealed no reliable neural
+associations with trait questionnaires, and associations with task-based affective ratings fell
+outside canonical emotion regulation networks (e.g., prefrontal circuitry). Moreover, amygdala
+down-regulation, often interpreted as a stable individual marker, was confounded by personspecific whole-brain responses — a limitation extending to fMRI research beyond the emotion
+regulation domain. These findings challenge the assumption that an individual’s prefrontal
+activity is a valid indicator of their reappraisal capabilities and suggest that common trait,
+behavioral, and neural measures might capture distinct facets of emotion regulation. More
+broadly, our results highlight concrete methodological challenges for fMRI research on
+individual differences, with implications extending beyond emotion regulation to the
+neuroscience of personality, psychopathology, and general well-being.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
     <a href="https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucag022/8732294" target="_blank">The Robustness of Mental Accounting Across 21 Countries</a>, with G. Priolo (First Author), E. Rubaltelli (PI), et al., <em>Journal of Consumer Research</em>, 2026.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
@@ -364,34 +389,6 @@ support tools.
       </p>
     </details>
   </li>
-
-  <li style="margin-top: 15px;">
-    <a href="https://www.biorxiv.org/content/10.1101/2025.08.18.670843v1.full.pdf" target="_blank">The Elusive Neural Signature of Emotion Regulation Capabilities: Evidence from a Large-Scale Consortium</a>, with C. Morawetz (First Author), M. Sicorello (PI), et al., 2026. <em>First revision submitted to Nature</em>.
-    <details style="margin-top: 5px; cursor: pointer;">
-      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
-      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Cognitive reappraisal is a fundamental emotion regulation strategy for mental and
-physical well-being, but how its neural mechanisms relate to individual differences remains
-poorly understood. In a consortium effort analyzing 40 fMRI datasets (N=2,175), we examined
-the relationship between neural activation during reappraisal tasks and three core individual
-difference indices of reappraisal capabilities: (1) trait questionnaires, (2) task-based affective
-ratings, and (3) amygdala down-regulation. Strikingly, there was no shared overlap across these
-three common indices. Only a very weak correlation emerged between amygdala downregulation and task-based affective ratings. Whole-brain analyses revealed no reliable neural
-associations with trait questionnaires, and associations with task-based affective ratings fell
-outside canonical emotion regulation networks (e.g., prefrontal circuitry). Moreover, amygdala
-down-regulation, often interpreted as a stable individual marker, was confounded by personspecific whole-brain responses — a limitation extending to fMRI research beyond the emotion
-regulation domain. These findings challenge the assumption that an individual’s prefrontal
-activity is a valid indicator of their reappraisal capabilities and suggest that common trait,
-behavioral, and neural measures might capture distinct facets of emotion regulation. More
-broadly, our results highlight concrete methodological challenges for fMRI research on
-individual differences, with implications extending beyond emotion regulation to the
-neuroscience of personality, psychopathology, and general well-being. 
-
-      </p>
-    </details>
-  </li>
-
-  
 
   <li style="margin-top: 15px;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Sequential Risk Taking with Feedback through Behavioral Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
