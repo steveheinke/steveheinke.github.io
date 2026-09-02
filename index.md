@@ -360,32 +360,22 @@ When making risky decisions, people should evaluate the consequences and the cha
 ### Working Papers 
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li>
-    <a href="https://www.dropbox.com/scl/fi/p9y26uwnpzkq8licl67mc/ManScie_main.pdf?rlkey=oufmmfq3g4j2kmlu5xdiulqj5&dl=0" target="_blank">Avoiding Bad Risks: How Risk Aversion Is Beneficial for Financial Decision-Making</a>, with S. Maier, A. Ziegler, A. Bagaïni, I. Kooij, S. Nebe, 
-N. Sidorenko, K. Trutmann, T. Hens, R. Mata, P. N. Tobler, and J.Rieskamp, 2026. <em></em>
+    <a href="https://www.dropbox.com/scl/fi/77kv2cwhnvwh9qrmrvy9k/Heinke_etal_2026_Avoiding-bad-risks.pdf?rlkey=ct9jgewhh0bgipysode8ql54x&dl=0" target="_blank">Avoiding Bad Risks: The Role of Risk Aversion and Self-Control in Financial Decision-Making</a>, with S. Maier, A. Ziegler, A. Bagaïni, I. Kooij, S. Nebe, 
+N. Sidorenko, K. Trutmann, T. Hens, R. Mata, P. N. Tobler, and J.Rieskamp, 2026. <em>Submitted to PNAS Nexus</em>
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        hat investor behaviors and characteristics affect performance the most? The existing
-literature is diverse and separately associates cognitive abilities, economic preferences, and
-neural signals with trading behavior and outcomes. We advance the literature through a
-comprehensive comparison of which of these trading behaviors and individual characteristics
-matter most for investor performance. Using administrative trading records from 143,000
-retail portfolios, linked to experimentally validated measures of cognitive abilities, economic
-preferences, and neural signals for a subset, we implement a preregistered Bayesian model
-averaging framework to evaluate the full model space without selective reporting. We find
-that performance improves not through greater risk-taking, but primarily through consis-
-tent avoidance of uncompensated idiosyncratic risk. Across all specifications, risk aver-
-sion and self-control emerge as the only robust individual differences associated with better
-risk-adjusted performance, primarily because they predict lower exposure to idiosyncratic
-risk and more stable trading behavior. Moreover, investors who diversify, trade less and
-avoid complex or lottery-like assets substantially reduce idiosyncratic volatility, which ac-
-counts for the majority of cross-sectional variation in total portfolio risk. In contrast, widely
-cited sources of heterogeneity—including overconfidence, cognitive ability, and theory of
-mind—show little or no reliable association with investor trading behaviors and perfor-
-mance once model uncertainty is taken into account. These findings clarify the behavioral
-foundations of household portfolio choice and provide an empirical basis for a more unified
-model of financial decision-making, with clear implications for theory, policy, and investor
-support tools.
+        The idea that individuals generally seek higher rewards when taking greater risks is a common assumption in decision
+making under risk. We show that this trade-off does not hold for many individual retail investors, who increasingly
+bear responsibility for their own financial welfare. By combining administrative trading records for 143,368 retail
+investment portfolios with experiments conducted with subsamples measuring psychological traits and neuroimaging
+data, we find that successful investors are more risk-averse and self-controlled. They also hold less risky portfolios
+without earning lower returns. They achieve this by avoiding bad risks, i.e. risks that do not offer higher returns
+in exchange for taking them. Risk-averse, self-controlled investors diversify more, trade less, and avoid complex,
+lottery-like investments. Each of these trading behaviors adds risk without adding return. These findings highlight
+the importance of risk aversion and self-control in shaping financial decision-making, beyond what trading behaviour
+alone reveals. They provide valuable insights for individual investors, financial advisors, policymakers, psychologists,
+and neuroscientists studying real-world risk-taking.
       </p>
     </details>
   </li>
