@@ -361,7 +361,7 @@ When making risky decisions, people should evaluate the consequences and the cha
 <ul style="list-style-type: disc; padding-left: 20px;">
   <li>
     <a href="https://www.dropbox.com/scl/fi/77kv2cwhnvwh9qrmrvy9k/Heinke_etal_2026_Avoiding-bad-risks.pdf?rlkey=ct9jgewhh0bgipysode8ql54x&dl=0" target="_blank">Avoiding Bad Risks: The Role of Risk Aversion and Self-Control in Financial Decision-Making</a>, with S. Maier, A. Ziegler, A. Bagaïni, I. Kooij, S. Nebe, 
-N. Sidorenko, K. Trutmann, T. Hens, R. Mata, P. N. Tobler, and J.Rieskamp, 2026. <em>Submitted to PNAS Nexus</em>
+N. Sidorenko, K. Trutmann, T. Hens, R. Mata, P. N. Tobler, and J.Rieskamp, 2026. <em>R&amp;R at PNAS Nexus</em>
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
