@@ -381,16 +381,6 @@ and neuroscientists studying real-world risk-taking.
   </li>
 
   <li style="margin-top: 15px;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Sequential Risk Taking with Feedback through Behavioral Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
-    <details style="margin-top: 5px; cursor: pointer;">
-      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
-      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Understanding sequential risk-taking with feedback, and how people deviate from rational benchmarks, has led to many behavioral finance models, without converging on a unifying theory. We propose to first shift the analysis from models to their constituent parts, that is, mechanisms. Second, we systematically compare the most common mechanisms against each other. We find that they all improve predictive accuracy relative to a Bayesian benchmark, but inertia and asymmetric updating explain most of the variation, while risk or loss aversion contributes little once learning is modeled. Better trading performance is associated with greater risk tolerance and near-Bayesian learning rates.
-      </p>
-    </details>
-  </li>
-
-  <li style="margin-top: 15px;">
     <a href="https://www.dropbox.com/scl/fi/p3fi1nj35wwdsr722hg4l/Energy_Mix_Choice_under_Cognitive_Constraints_main.pdf?rlkey=z2r6zv3t0s2ri14t82d7rqi68&dl=0" target="_blank">Too Much Choice? A Lab-in-the-Field Experiment on Choice Overload, Cognitive Constraints, and Consumer Welfare in Electricity Contracts Decisions</a>, with S. Olschewski and C. Roux, 2026. <em>R&amp;R at Journal of Economic Psychology</em>
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
@@ -441,6 +431,16 @@ measures. We found that the proposed task has a higher test–retest correlation
 by observing multiple decisions, providing context, and including gains and losses. We
 discuss the challenges of eliciting risk preferences and propose new directions for doing
 so.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Sequential Risk Taking with Feedback through Behavioral Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Understanding sequential risk-taking with feedback, and how people deviate from rational benchmarks, has led to many behavioral finance models, without converging on a unifying theory. We propose to first shift the analysis from models to their constituent parts, that is, mechanisms. Second, we systematically compare the most common mechanisms against each other. We find that they all improve predictive accuracy relative to a Bayesian benchmark, but inertia and asymmetric updating explain most of the variation, while risk or loss aversion contributes little once learning is modeled. Better trading performance is associated with greater risk tolerance and near-Bayesian learning rates.
       </p>
     </details>
   </li>
