@@ -233,7 +233,36 @@ title: Steve Heinke
 
 
 ### Publications
-<ol reversed start="9">
+<ol reversed start="10">
+  <li style="margin-top: 15px;">
+    <a href="https://tinyurl.com/2v4sk3vz" target="_blank">Does Increasing the Number of Decisions Enhance Reliability in Behavioral Risk Preference Measures?</a>, with O. Schürmann, S. Andraszewicz, and J. Rieskamp, 2026. <em>Conditionally accepted at Scientific Reports</em>.
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Investigating the risk preferences of decision makers is important for researchers study-
+ing decision making and practitioners (i.e., professionals in a variety of fields) who give
+advice. Behavioral tasks, which infer a person’s risk preference from their observed risk-
+taking behavior with real consequences, should be less susceptible to “cheap talk” than
+self-report measures. Additionally, behavioral measures enable for objective characteriza-
+tion of risk attributes between different choice options, thus allowing for a more rigorous
+investigation compared to subjective surveys relying solely on language-based descriptions.
+Finally, the objective nature of behavioral tasks is expected to facilitate generalization to
+predict decision-making behavior in new situations. However, they often have low test–
+retest reliability, meaning that a decision made at one time may not predict a decision
+made at another time within the same task. We suggest that increasing the engagement
+with tasks through changes in the choice architecture can improve the test–retest reliabil-
+ity of behavioral tasks. We developed a new measure that includes features of self-report
+measures, such as providing contextual background narratives for otherwise abstract de-
+cisions, including both gains and losses, eliciting multiple decisions, and varying the size
+of outcomes. We compared this task with other common behavioral tasks and self-report
+measures. We found that the proposed task has a higher test–retest correlation, driven
+by observing multiple decisions, providing context, and including gains and losses. We
+discuss the challenges of eliciting risk preferences and propose new directions for doing
+so.
+      </p>
+    </details>
+  </li>
+
     <li style="margin-top: 15px;">
     <a href="https://www.biorxiv.org/content/10.1101/2025.08.18.670843v1.full.pdf" target="_blank">The Elusive Neural Signature of Emotion Regulation Capabilities: Evidence from a Large-Scale Consortium</a>, with M. Sicorello (First Author), C. Morawetz (PI), et al., 2026. <em>Accepted at Nature</em>.
     <details style="margin-top: 5px; cursor: pointer;">
@@ -402,35 +431,6 @@ of dominated choices, expanding the option set improves consumer welfare because
 participants remain sufficiently consistent to identify better-matching contracts. Our
 findings suggest that easing cognitive demands, rather than restricting choice options,
 is more effective in improving consumer welfare.
-      </p>
-    </details>
-  </li>
-
-  <li style="margin-top: 15px;">
-    <a href="https://tinyurl.com/2v4sk3vz" target="_blank">How to Improve the Measurement Quality of Behavioral Tasks Eliciting Risk Preferences?</a>, with O. Schürmann, S. Andraszewicz, and J. Rieskamp, 2026. <em>R&amp;R at Scientific Reports</em>.
-    <details style="margin-top: 5px; cursor: pointer;">
-      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
-      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
-        Investigating the risk preferences of decision makers is important for researchers study-
-ing decision making and practitioners (i.e., professionals in a variety of fields) who give
-advice. Behavioral tasks, which infer a person’s risk preference from their observed risk-
-taking behavior with real consequences, should be less susceptible to “cheap talk” than
-self-report measures. Additionally, behavioral measures enable for objective characteriza-
-tion of risk attributes between different choice options, thus allowing for a more rigorous
-investigation compared to subjective surveys relying solely on language-based descriptions.
-Finally, the objective nature of behavioral tasks is expected to facilitate generalization to
-predict decision-making behavior in new situations. However, they often have low test–
-retest reliability, meaning that a decision made at one time may not predict a decision
-made at another time within the same task. We suggest that increasing the engagement
-with tasks through changes in the choice architecture can improve the test–retest reliabil-
-ity of behavioral tasks. We developed a new measure that includes features of self-report
-measures, such as providing contextual background narratives for otherwise abstract de-
-cisions, including both gains and losses, eliciting multiple decisions, and varying the size
-of outcomes. We compared this task with other common behavioral tasks and self-report
-measures. We found that the proposed task has a higher test–retest correlation, driven
-by observing multiple decisions, providing context, and including gains and losses. We
-discuss the challenges of eliciting risk preferences and propose new directions for doing
-so.
       </p>
     </details>
   </li>
