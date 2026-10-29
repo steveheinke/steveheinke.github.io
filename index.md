@@ -235,7 +235,7 @@ title: Steve Heinke
 ### Publications
 <ol reversed start="10">
     <li style="margin-top: 15px;">
-    <a href="https://www.biorxiv.org/content/10.1101/2025.08.18.670843v1.full.pdf" target="_blank">The Elusive Neural Signature of Emotion Regulation Capabilities: Evidence from a Large-Scale Consortium</a>, with M. Sicorello (First Author), C. Morawetz (PI), et al., 2026. <em>Accepted at Nature</em>.
+    <a href="https://www.nature.com/articles/s41586-026-11203-1" target="_blank">Emotion Regulation Capacity Lacks a Shared Neural Signature</a>, with M. Sicorello (First Author), C. Morawetz (PI), et al., <em>Nature</em>, 2026.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
               <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
