@@ -436,6 +436,16 @@ is more effective in improving consumer welfare.
   </li>
 
   <li style="margin-top: 15px;">
+    <a href="https://www.researchgate.net/publication/408399865_How_Researchers'_Analytical_Decisions_Impact_Brand_Price_Elasticity_Estimates_Insights_from_A_Many-Analyst_Study" target="_blank">How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates: Insights from A Many-Analyst Study</a>, with O. Koll (First Author), K. Pauwels, K. Teichmann, H. Datta, H. van Heerde (PI Coordinators), et al., 2026. <em>R&amp;R at International Journal of Research in Marketing</em>
+    <details style="margin-top: 5px; cursor: pointer;">
+      <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
+      <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
+        Price elasticities are central empirical measures in marketing, informing pricing, promotion planning, demand forecasting, and evaluations of consumer responsiveness. Yet, their estimates may depend not only on brands, categories, and markets but also on the analytical decisions researchers make when transforming raw purchase data into empirical estimates. We examine this issue using a many-analyst design in which 156 independent research teams estimate brand price elasticities for 68 meat-substitute brand-country combinations using the same dataset. Each team retained discretion over its analytical approach, while we documented its modeling choices, aggregation decisions, fixed-effects structure, control variables, and treatment of endogeneity. The results show substantial heterogeneity in both analytical choices and reported estimates. Across 10,415 volume price elasticity estimates, the average elasticity is -0.61, but estimates vary considerably across research teams and brands. Choices related to time aggregation, fixed effects, time controls, and marketing-mix covariates explain the largest share of variation in reported estimates. Because researchers’ decisions occur in configurations rather than in isolation, we also cluster research teams based on their analytical choices. These clusters reveal distinct analytical pathways, from aggregated brand-week regression workflows to disaggregated analyses at the consumer or SKU level, and these pathways produce different patterns of elasticity estimates. Our findings contribute to elasticity research by identifying modeling decisions that warrant particular scrutiny, and to the open science debate by showing that reproducible research is necessary but not sufficient: empirical marketing also needs greater transparency about the analytical decisions through which estimates are produced.
+      </p>
+    </details>
+  </li>
+
+  <li style="margin-top: 15px;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7168338" target="_blank">What’s Important Under the Hood? Decomposing Sequential Risk Taking with Feedback through Behavioral Structural Modeling</a>, with M. Marti, S. Olschewski, K. Trutmann, and J. Rieskamp, 2026.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
