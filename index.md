@@ -260,7 +260,7 @@ neuroscience of personality, psychopathology, and general well-being.
   </li>
 
   <li style="margin-top: 15px;">
-    <a href="https://tinyurl.com/2v4sk3vz" target="_blank">Does Increasing the Number of Decisions Enhance Reliability in Behavioral Risk Preference Measures?</a>, with O. Schürmann, S. Andraszewicz, and J. Rieskamp, 2026. <em>Accepted at Scientific Reports</em>.
+    <a href="https://tinyurl.com/2v4sk3vz" target="_blank">More Choices Improve Behavioral Risk Measures but Surveys Remain More Reliable</a>, with O. Schürmann, S. Andraszewicz, and J. Rieskamp, 2026. <em>Accepted at Scientific Reports</em>.
     <details style="margin-top: 5px; cursor: pointer;">
       <summary style="font-size: 0.85em; color: #666;">Abstract</summary>
       <p style="font-size: 0.9em; color: #444; padding: 10px; border-left: 2px solid #eee; margin-top: 5px;">
